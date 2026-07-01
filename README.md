@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0504-base-7](https://github.com/nikhiltomar2712/leetcode/tree/master/0504-base-7) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Database
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/nikhiltomar2712/leetcode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
