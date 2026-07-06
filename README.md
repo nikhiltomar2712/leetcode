@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/nikhiltomar2712/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/nikhiltomar2712/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0013-roman-to-integer) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nikhiltomar2712/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0013-roman-to-integer) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nikhiltomar2712/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0013-roman-to-integer) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
