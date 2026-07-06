@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0002-add-two-numbers) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhiltomar2712/leetcode/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
