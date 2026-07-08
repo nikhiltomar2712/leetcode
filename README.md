@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/nikhiltomar2712/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/0075-sort-colors) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/0075-sort-colors) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Memoization
