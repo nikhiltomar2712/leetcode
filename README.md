@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nikhiltomar2712/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0048-rotate-image) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0048-rotate-image) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nikhiltomar2712/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0048-rotate-image) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
