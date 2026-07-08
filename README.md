@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/nikhiltomar2712/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
