@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhiltomar2712/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nikhiltomar2712/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nikhiltomar2712/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 ## Divide and Conquer
 |  |
