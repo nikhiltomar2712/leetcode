@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0087-scramble-string) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0087-scramble-string) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
