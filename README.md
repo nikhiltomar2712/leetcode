@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0100-same-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/nikhiltomar2712/leetcode/tree/master/0529-minesweeper) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search Tree
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0528-random-pick-with-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0100-same-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/nikhiltomar2712/leetcode/tree/master/0529-minesweeper) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
