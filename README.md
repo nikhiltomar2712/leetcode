@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nikhiltomar2712/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0055-jump-game) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0055-jump-game) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0055-jump-game) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
