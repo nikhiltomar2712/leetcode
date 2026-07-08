@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nikhiltomar2712/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Topological Sort
 |  |
