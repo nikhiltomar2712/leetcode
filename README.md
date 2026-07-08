@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nikhiltomar2712/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nikhiltomar2712/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nikhiltomar2712/leetcode/tree/master/0089-gray-code) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nikhiltomar2712/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nikhiltomar2712/leetcode/tree/master/0089-gray-code) |
 | [0476-number-complement](https://github.com/nikhiltomar2712/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 ## Geometry
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nikhiltomar2712/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/nikhiltomar2712/leetcode/tree/master/0089-gray-code) |
 ## Prefix Sum
 |  |
 | ------- |
