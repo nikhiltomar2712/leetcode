@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nikhiltomar2712/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
