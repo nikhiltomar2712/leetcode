@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nikhiltomar2712/leetcode/tree/master/0050-powx-n) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/nikhiltomar2712/leetcode/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
