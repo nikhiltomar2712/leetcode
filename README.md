@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0040-combination-sum-ii) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0040-combination-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
