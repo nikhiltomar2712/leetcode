@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0056-merge-intervals) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0056-merge-intervals) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
