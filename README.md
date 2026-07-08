@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nikhiltomar2712/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0062-unique-paths) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0062-unique-paths) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
