@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
