@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0143-reorder-list) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0503-next-greater-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhiltomar2712/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0143-reorder-list) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nikhiltomar2712/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nikhiltomar2712/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikhiltomar2712/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nikhiltomar2712/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0143-reorder-list) |
 ## Trie
 |  |
 | ------- |
