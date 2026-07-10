@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/nikhiltomar2712/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nikhiltomar2712/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nikhiltomar2712/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/nikhiltomar2712/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhiltomar2712/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/nikhiltomar2712/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nikhiltomar2712/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Rejection Sampling
 |  |
