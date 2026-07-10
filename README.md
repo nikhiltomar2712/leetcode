@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nikhiltomar2712/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nikhiltomar2712/leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0174-dungeon-game) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nikhiltomar2712/leetcode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0174-dungeon-game) |
 | [0529-minesweeper](https://github.com/nikhiltomar2712/leetcode/tree/master/0529-minesweeper) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0174-dungeon-game) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
