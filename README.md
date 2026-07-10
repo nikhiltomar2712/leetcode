@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nikhiltomar2712/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhiltomar2712/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nikhiltomar2712/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 ## Divide and Conquer
 |  |
@@ -599,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -620,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/nikhiltomar2712/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Prefix Sum
 |  |
