@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/nikhiltomar2712/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nikhiltomar2712/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nikhiltomar2712/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -677,14 +680,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhiltomar2712/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
@@ -694,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 ## Interactive
 |  |
@@ -835,4 +842,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
