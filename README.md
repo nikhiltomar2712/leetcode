@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/nikhiltomar2712/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhiltomar2712/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Trie
 |  |
 | ------- |
