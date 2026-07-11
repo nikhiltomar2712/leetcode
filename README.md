@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/nikhiltomar2712/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0205-isomorphic-strings) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/nikhiltomar2712/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/nikhiltomar2712/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0205-isomorphic-strings) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
