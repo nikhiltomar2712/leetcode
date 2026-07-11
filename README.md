@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nikhiltomar2712/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
