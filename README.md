@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nikhiltomar2712/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nikhiltomar2712/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/nikhiltomar2712/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
