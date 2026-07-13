@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nikhiltomar2712/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikhiltomar2712/leetcode/tree/master/0233-number-of-digit-one) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nikhiltomar2712/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0223-rectangle-area) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Rejection Sampling
 |  |
