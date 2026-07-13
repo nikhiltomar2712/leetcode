@@ -11,7 +11,7 @@ class Solution {
         // Copy the next node's value to current node
         node.val = node.next.val;
         
-        // Skip the next node
+        // Skip the next node (garbage collector will clean it up)
         node.next = node.next.next;
     }
 }
