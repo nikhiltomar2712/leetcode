@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikhiltomar2712/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0263-ugly-number) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
