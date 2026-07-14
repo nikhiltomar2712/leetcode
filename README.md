@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nikhiltomar2712/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nikhiltomar2712/leetcode/tree/master/0278-first-bad-version) |
 | [0483-smallest-good-base](https://github.com/nikhiltomar2712/leetcode/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nikhiltomar2712/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/nikhiltomar2712/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
