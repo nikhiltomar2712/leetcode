@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhiltomar2712/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/nikhiltomar2712/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0481-magical-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/nikhiltomar2712/leetcode/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/nikhiltomar2712/leetcode/tree/master/0398-random-pick-index) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/nikhiltomar2712/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhiltomar2712/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/nikhiltomar2712/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
