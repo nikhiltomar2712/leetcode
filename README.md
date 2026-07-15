@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nikhiltomar2712/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/nikhiltomar2712/leetcode/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/nikhiltomar2712/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/nikhiltomar2712/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nikhiltomar2712/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -859,11 +861,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/nikhiltomar2712/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/nikhiltomar2712/leetcode/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/nikhiltomar2712/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
