@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/nikhiltomar2712/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/nikhiltomar2712/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/nikhiltomar2712/leetcode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/nikhiltomar2712/leetcode/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/nikhiltomar2712/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 ## Divide and Conquer
 |  |
