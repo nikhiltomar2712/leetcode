@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/nikhiltomar2712/leetcode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/nikhiltomar2712/leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/nikhiltomar2712/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/nikhiltomar2712/leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Prefix Sum
 |  |
