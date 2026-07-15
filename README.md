@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/nikhiltomar2712/leetcode/tree/master/0393-utf-8-validation) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/nikhiltomar2712/leetcode/tree/master/0393-utf-8-validation) |
 | [0476-number-complement](https://github.com/nikhiltomar2712/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
