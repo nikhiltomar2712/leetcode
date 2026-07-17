@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0503-next-greater-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhiltomar2712/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/nikhiltomar2712/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0445-add-two-numbers-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/nikhiltomar2712/leetcode/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
