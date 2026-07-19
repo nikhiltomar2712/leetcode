@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nikhiltomar2712/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nikhiltomar2712/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/nikhiltomar2712/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0537-complex-number-multiplication](https://github.com/nikhiltomar2712/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nikhiltomar2712/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/nikhiltomar2712/leetcode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/nikhiltomar2712/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
