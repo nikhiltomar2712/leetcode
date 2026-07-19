@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/nikhiltomar2712/leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhiltomar2712/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Greedy
 |  |
 | ------- |
