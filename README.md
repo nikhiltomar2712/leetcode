@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
