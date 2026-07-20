@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0553-optimal-division) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/nikhiltomar2712/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0553-optimal-division) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0553-optimal-division) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
