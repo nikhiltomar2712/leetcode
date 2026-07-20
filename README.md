@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0388-longest-absolute-file-path) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0394-decode-string) |
@@ -1154,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/nikhiltomar2712/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/nikhiltomar2712/leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1193,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Number Theory
 |  |
 | ------- |
@@ -1232,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nikhiltomar2712/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikhiltomar2712/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
