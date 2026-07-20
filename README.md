@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/nikhiltomar2712/leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0180-consecutive-numbers) |
 | [0262-trips-and-users](https://github.com/nikhiltomar2712/leetcode/tree/master/0262-trips-and-users) |
+| [0550-game-play-analysis-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/nikhiltomar2712/leetcode/tree/master/0577-employee-bonus) |
 | [1148-article-views-i](https://github.com/nikhiltomar2712/leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/nikhiltomar2712/leetcode/tree/master/1251-average-selling-price) |
