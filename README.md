@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/nikhiltomar2712/leetcode/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/nikhiltomar2712/leetcode/tree/master/0575-distribute-candies) |
+| [0587-erect-the-fence](https://github.com/nikhiltomar2712/leetcode/tree/master/0587-erect-the-fence) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/nikhiltomar2712/leetcode/tree/master/0587-erect-the-fence) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0587-erect-the-fence](https://github.com/nikhiltomar2712/leetcode/tree/master/0587-erect-the-fence) |
 ## Rejection Sampling
 |  |
 | ------- |
