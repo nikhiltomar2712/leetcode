@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/nikhiltomar2712/leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0593-valid-square) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/nikhiltomar2712/leetcode/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0593-valid-square) |
 ## Rejection Sampling
 |  |
 | ------- |
