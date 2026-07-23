@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
