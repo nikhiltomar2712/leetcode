@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nikhiltomar2712/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
