@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -700,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
