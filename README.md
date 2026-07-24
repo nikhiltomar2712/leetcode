@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nikhiltomar2712/leetcode/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/nikhiltomar2712/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1309,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nikhiltomar2712/leetcode/tree/master/0621-task-scheduler) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Iterator
 |  |
