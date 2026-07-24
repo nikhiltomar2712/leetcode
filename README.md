@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/nikhiltomar2712/leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/nikhiltomar2712/leetcode/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/nikhiltomar2712/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/nikhiltomar2712/leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/nikhiltomar2712/leetcode/tree/master/1251-average-selling-price) |
 ## Hash Table
