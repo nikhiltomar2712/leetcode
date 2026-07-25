@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/nikhiltomar2712/leetcode/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1228,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nikhiltomar2712/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1410,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
 ## Monotonic Queue
 |  |
 | ------- |
