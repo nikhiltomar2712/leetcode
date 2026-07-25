@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/0640-solve-the-equation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/0640-solve-the-equation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/nikhiltomar2712/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/0640-solve-the-equation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
