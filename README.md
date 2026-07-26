@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/nikhiltomar2712/leetcode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/nikhiltomar2712/leetcode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/nikhiltomar2712/leetcode/tree/master/0649-dota2-senate) |
 ## Monotonic Queue
 |  |
 | ------- |
