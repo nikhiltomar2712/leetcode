@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/nikhiltomar2712/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0655-print-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/nikhiltomar2712/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0655-print-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0655-print-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/nikhiltomar2712/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0655-print-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0655-print-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0655-print-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
