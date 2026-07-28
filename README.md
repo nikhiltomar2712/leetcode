@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/nikhiltomar2712/leetcode/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0677-map-sum-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0677-map-sum-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1356,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0677-map-sum-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -1434,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
