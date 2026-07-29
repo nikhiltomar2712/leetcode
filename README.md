@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0684-redundant-connection](https://github.com/nikhiltomar2712/leetcode/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/nikhiltomar2712/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/nikhiltomar2712/leetcode/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikhiltomar2712/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nikhiltomar2712/leetcode/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1107,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikhiltomar2712/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nikhiltomar2712/leetcode/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
