@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/nikhiltomar2712/leetcode/tree/master/0690-employee-importance) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nikhiltomar2712/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0669-trim-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
