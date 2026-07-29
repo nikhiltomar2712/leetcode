@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0697-degree-of-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1301,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/nikhiltomar2712/leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1448,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/nikhiltomar2712/leetcode/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1478,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/nikhiltomar2712/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/nikhiltomar2712/leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Design
 |  |
 | ------- |
