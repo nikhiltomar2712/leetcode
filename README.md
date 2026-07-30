@@ -1376,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/nikhiltomar2712/leetcode/tree/master/0715-range-module) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
@@ -1390,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/nikhiltomar2712/leetcode/tree/master/0715-range-module) |
 ## Interactive
 |  |
 | ------- |
@@ -1552,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/nikhiltomar2712/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nikhiltomar2712/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0707-design-linked-list) |
+| [0715-range-module](https://github.com/nikhiltomar2712/leetcode/tree/master/0715-range-module) |
 ## Doubly-Linked List
 |  |
 | ------- |
