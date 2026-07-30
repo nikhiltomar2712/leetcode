@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/nikhiltomar2712/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nikhiltomar2712/leetcode/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0713-subarray-product-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1497,6 +1500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0713-subarray-product-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
