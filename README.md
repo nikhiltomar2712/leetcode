@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0699-falling-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0699-falling-squares) |
 | [0705-design-hashset](https://github.com/nikhiltomar2712/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nikhiltomar2712/leetcode/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/nikhiltomar2712/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nikhiltomar2712/leetcode/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1064,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1259,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 ## Enumeration
 |  |
 | ------- |
