@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nikhiltomar2712/leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/nikhiltomar2712/leetcode/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/nikhiltomar2712/leetcode/tree/master/0726-number-of-atoms) |
+| [0730-count-different-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhiltomar2712/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
