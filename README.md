@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nikhiltomar2712/leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/nikhiltomar2712/leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/nikhiltomar2712/leetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0729-my-calendar-i) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0729-my-calendar-i) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1412,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/nikhiltomar2712/leetcode/tree/master/0715-range-module) |
+| [0729-my-calendar-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0729-my-calendar-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
@@ -1427,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/nikhiltomar2712/leetcode/tree/master/0715-range-module) |
+| [0729-my-calendar-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0729-my-calendar-i) |
 ## Interactive
 |  |
 | ------- |
@@ -1593,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/nikhiltomar2712/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0707-design-linked-list) |
 | [0715-range-module](https://github.com/nikhiltomar2712/leetcode/tree/master/0715-range-module) |
+| [0729-my-calendar-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0729-my-calendar-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
