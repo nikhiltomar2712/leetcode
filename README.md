@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/nikhiltomar2712/leetcode/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/nikhiltomar2712/leetcode/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0736-parse-lisp-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/0736-parse-lisp-expression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/nikhiltomar2712/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/nikhiltomar2712/leetcode/tree/master/0726-number-of-atoms) |
+| [0736-parse-lisp-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/0736-parse-lisp-expression) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/nikhiltomar2712/leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/nikhiltomar2712/leetcode/tree/master/0735-asteroid-collision) |
+| [0736-parse-lisp-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/0736-parse-lisp-expression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -1505,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0394-decode-string) |
+| [0736-parse-lisp-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/0736-parse-lisp-expression) |
 ## Trie
 |  |
 | ------- |
