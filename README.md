@@ -1106,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/nikhiltomar2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0728-self-dividing-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
