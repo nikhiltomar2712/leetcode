@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikhiltomar2712/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhiltomar2712/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/nikhiltomar2712/leetcode/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/nikhiltomar2712/leetcode/tree/master/0741-cherry-pickup) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/nikhiltomar2712/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhiltomar2712/leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/nikhiltomar2712/leetcode/tree/master/0741-cherry-pickup) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/nikhiltomar2712/leetcode/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/nikhiltomar2712/leetcode/tree/master/0741-cherry-pickup) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
