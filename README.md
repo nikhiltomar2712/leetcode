@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhiltomar2712/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0477-total-hamming-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nikhiltomar2712/leetcode/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/nikhiltomar2712/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/nikhiltomar2712/leetcode/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/nikhiltomar2712/leetcode/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/nikhiltomar2712/leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -1508,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
 | [0736-parse-lisp-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/0736-parse-lisp-expression) |
 ## Trie
 |  |
@@ -1725,4 +1729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nikhiltomar2712/leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
