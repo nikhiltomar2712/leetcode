@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/nikhiltomar2712/leetcode/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1239,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/nikhiltomar2712/leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/nikhiltomar2712/leetcode/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
