@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/nikhiltomar2712/leetcode/tree/master/0752-open-the-lock) |
 | [0753-cracking-the-safe](https://github.com/nikhiltomar2712/leetcode/tree/master/0753-cracking-the-safe) |
+| [0756-pyramid-transition-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/nikhiltomar2712/leetcode/tree/master/0752-open-the-lock) |
+| [0756-pyramid-transition-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1341,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
