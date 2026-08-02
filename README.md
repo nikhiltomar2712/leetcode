@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0770-basic-calculator-iv) |
+| [0771-jewels-and-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0770-basic-calculator-iv) |
+| [0771-jewels-and-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
