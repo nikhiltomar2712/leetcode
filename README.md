@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/0771-jewels-and-stones) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1478,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
