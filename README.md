@@ -1214,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0770-basic-calculator-iv) |
 | [0775-global-and-local-inversions](https://github.com/nikhiltomar2712/leetcode/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nikhiltomar2712/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0780-reaching-points](https://github.com/nikhiltomar2712/leetcode/tree/master/0780-reaching-points) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
