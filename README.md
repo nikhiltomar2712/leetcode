@@ -1346,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhiltomar2712/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/nikhiltomar2712/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
