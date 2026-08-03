@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/0773-sliding-puzzle) |
 | [0775-global-and-local-inversions](https://github.com/nikhiltomar2712/leetcode/tree/master/0775-global-and-local-inversions) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/nikhiltomar2712/leetcode/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/nikhiltomar2712/leetcode/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/nikhiltomar2712/leetcode/tree/master/0765-couples-holding-hands) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0732-my-calendar-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0754-reach-a-number) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nikhiltomar2712/leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/nikhiltomar2712/leetcode/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/nikhiltomar2712/leetcode/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1022,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nikhiltomar2712/leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/nikhiltomar2712/leetcode/tree/master/0765-couples-holding-hands) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1059,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/nikhiltomar2712/leetcode/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
