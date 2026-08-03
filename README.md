@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0782-transform-to-chessboard) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nikhiltomar2712/leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1509,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
