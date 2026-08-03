@@ -1238,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/nikhiltomar2712/leetcode/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0782-transform-to-chessboard) |
+| [0788-rotated-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1342,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/nikhiltomar2712/leetcode/tree/master/0764-largest-plus-sign) |
 | [0773-sliding-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhiltomar2712/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
