@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-bricks-falling-when-hit](https://github.com/nikhiltomar2712/leetcode/tree/master/0803-bricks-falling-when-hit) |
+| [0804-unique-morse-code-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0804-unique-morse-code-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
