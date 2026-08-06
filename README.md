@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/nikhiltomar2712/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nikhiltomar2712/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0809-expressive-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0809-expressive-words) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0809-expressive-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0809-expressive-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1578,6 +1580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/nikhiltomar2712/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0809-expressive-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0809-expressive-words) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
