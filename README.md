@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nikhiltomar2712/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0809-expressive-words) |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/nikhiltomar2712/leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/nikhiltomar2712/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/nikhiltomar2712/leetcode/tree/master/0808-soup-servings) |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1494,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0784-letter-case-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/nikhiltomar2712/leetcode/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1949,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 ## Eulerian Circuit
@@ -1975,4 +1979,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/nikhiltomar2712/leetcode/tree/master/0808-soup-servings) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
