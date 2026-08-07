@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/nikhiltomar2712/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0815-bus-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/0815-bus-routes) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/nikhiltomar2712/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/nikhiltomar2712/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0815-bus-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhiltomar2712/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nikhiltomar2712/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0815-bus-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/0815-bus-routes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
