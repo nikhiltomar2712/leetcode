@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/nikhiltomar2712/leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/nikhiltomar2712/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/nikhiltomar2712/leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/nikhiltomar2712/leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1768,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 ## Backtracking
 |  |
 | ------- |
