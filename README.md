@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/nikhiltomar2712/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/nikhiltomar2712/leetcode/tree/master/0824-goat-latin) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/nikhiltomar2712/leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0822-card-flipping-game) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1445,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/nikhiltomar2712/leetcode/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/nikhiltomar2712/leetcode/tree/master/0818-race-car) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
