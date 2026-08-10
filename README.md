@@ -1330,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/nikhiltomar2712/leetcode/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0812-largest-triangle-area) |
+| [0829-consecutive-numbers-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1586,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nikhiltomar2712/leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/nikhiltomar2712/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0816-ambiguous-coordinates](https://github.com/nikhiltomar2712/leetcode/tree/master/0816-ambiguous-coordinates) |
+| [0829-consecutive-numbers-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1291-sequential-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
