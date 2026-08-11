@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/nikhiltomar2712/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
+| [0833-find-and-replace-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/nikhiltomar2712/leetcode/tree/master/0831-masking-personal-information) |
+| [0833-find-and-replace-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0822-card-flipping-game) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0833-find-and-replace-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/nikhiltomar2712/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/nikhiltomar2712/leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
