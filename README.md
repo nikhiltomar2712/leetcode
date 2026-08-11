@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/nikhiltomar2712/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/nikhiltomar2712/leetcode/tree/master/0824-goat-latin) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0830-positions-of-large-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0830-positions-of-large-groups) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
