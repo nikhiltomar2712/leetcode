@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/nikhiltomar2712/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/nikhiltomar2712/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/nikhiltomar2712/leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nikhiltomar2712/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1512,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikhiltomar2712/leetcode/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/nikhiltomar2712/leetcode/tree/master/0749-contain-virus) |
+| [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1557,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/nikhiltomar2712/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1650,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/nikhiltomar2712/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/nikhiltomar2712/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/nikhiltomar2712/leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
