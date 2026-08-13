@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/nikhiltomar2712/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0835-image-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0837-new-21-game) |
+| [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
