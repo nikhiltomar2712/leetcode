@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
+| [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
+| [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1524,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nikhiltomar2712/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
