@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/nikhiltomar2712/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0850-rectangle-area-ii) |
+| [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1546,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1589,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nikhiltomar2712/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -2127,6 +2131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
