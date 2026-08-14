@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/nikhiltomar2712/leetcode/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0844-backspace-string-compare](https://github.com/nikhiltomar2712/leetcode/tree/master/0844-backspace-string-compare) |
+| [0848-shifting-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1936,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0848-shifting-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
