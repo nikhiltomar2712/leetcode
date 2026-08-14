@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/nikhiltomar2712/leetcode/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/nikhiltomar2712/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
