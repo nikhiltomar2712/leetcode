@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/nikhiltomar2712/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0837-new-21-game) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/nikhiltomar2712/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/nikhiltomar2712/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhiltomar2712/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0855-exam-room](https://github.com/nikhiltomar2712/leetcode/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/nikhiltomar2712/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1976,6 +1980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0848-shifting-letters) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -2131,10 +2136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nikhiltomar2712/leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/nikhiltomar2712/leetcode/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhiltomar2712/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Data Stream
 |  |
 | ------- |
