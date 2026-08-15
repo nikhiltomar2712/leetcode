@@ -1412,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1663,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -2070,6 +2072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhiltomar2712/leetcode/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -2220,4 +2223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0856-score-of-parentheses) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
