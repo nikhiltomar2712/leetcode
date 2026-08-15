@@ -1096,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/nikhiltomar2712/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/nikhiltomar2712/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhiltomar2712/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0855-exam-room](https://github.com/nikhiltomar2712/leetcode/tree/master/0855-exam-room) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1820,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0850-rectangle-area-ii) |
+| [0855-exam-room](https://github.com/nikhiltomar2712/leetcode/tree/master/0855-exam-room) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
@@ -2016,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [0855-exam-room](https://github.com/nikhiltomar2712/leetcode/tree/master/0855-exam-room) |
 ## Doubly-Linked List
 |  |
 | ------- |
