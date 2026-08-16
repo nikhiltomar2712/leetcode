@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0859-buddy-strings) |
+| [0880-decoded-string-at-index](https://github.com/nikhiltomar2712/leetcode/tree/master/0880-decoded-string-at-index) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1344,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nikhiltomar2712/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/nikhiltomar2712/leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/nikhiltomar2712/leetcode/tree/master/0880-decoded-string-at-index) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
