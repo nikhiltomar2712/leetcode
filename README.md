@@ -1439,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -2104,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/nikhiltomar2712/leetcode/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -2277,4 +2279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
