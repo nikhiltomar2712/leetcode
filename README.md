@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/nikhiltomar2712/leetcode/tree/master/0846-hand-of-straights) |
 | [0854-k-similar-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0859-buddy-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/nikhiltomar2712/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/nikhiltomar2712/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -1186,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-k-similar-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0854-k-similar-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
