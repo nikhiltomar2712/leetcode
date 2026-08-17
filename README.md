@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/nikhiltomar2712/leetcode/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/nikhiltomar2712/leetcode/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/nikhiltomar2712/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1471,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/nikhiltomar2712/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1735,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Rejection Sampling
 |  |
 | ------- |
