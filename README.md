@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/nikhiltomar2712/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0891-sum-of-subsequence-widths](https://github.com/nikhiltomar2712/leetcode/tree/master/0891-sum-of-subsequence-widths) |
+| [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1497,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/nikhiltomar2712/leetcode/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/nikhiltomar2712/leetcode/tree/master/0891-sum-of-subsequence-widths) |
+| [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1765,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nikhiltomar2712/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/nikhiltomar2712/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 ## Rejection Sampling
 |  |
 | ------- |
