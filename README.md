@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nikhiltomar2712/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/0888-fair-candy-swap) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/nikhiltomar2712/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhiltomar2712/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nikhiltomar2712/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/nikhiltomar2712/leetcode/tree/master/0887-super-egg-drop) |
+| [0888-fair-candy-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/0888-fair-candy-swap) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/nikhiltomar2712/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/nikhiltomar2712/leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/nikhiltomar2712/leetcode/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
