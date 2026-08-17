@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/nikhiltomar2712/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0896-monotonic-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
