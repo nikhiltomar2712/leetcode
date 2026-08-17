@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1228,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/nikhiltomar2712/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1251,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/nikhiltomar2712/leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/nikhiltomar2712/leetcode/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
+| [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1638,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2363,4 +2367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
