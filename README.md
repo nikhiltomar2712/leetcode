@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/nikhiltomar2712/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0895-maximum-frequency-stack](https://github.com/nikhiltomar2712/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/nikhiltomar2712/leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/nikhiltomar2712/leetcode/tree/master/0880-decoded-string-at-index) |
+| [0895-maximum-frequency-stack](https://github.com/nikhiltomar2712/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -1947,6 +1949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0855-exam-room](https://github.com/nikhiltomar2712/leetcode/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/nikhiltomar2712/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
@@ -2147,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/nikhiltomar2712/leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/nikhiltomar2712/leetcode/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/nikhiltomar2712/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
