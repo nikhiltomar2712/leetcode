@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0896-monotonic-array) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1645,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/nikhiltomar2712/leetcode/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/nikhiltomar2712/leetcode/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1766,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/nikhiltomar2712/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/nikhiltomar2712/leetcode/tree/master/0868-binary-gap) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
