@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0900-rle-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0900-rle-iterator) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/nikhiltomar2712/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/nikhiltomar2712/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/nikhiltomar2712/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/nikhiltomar2712/leetcode/tree/master/0887-super-egg-drop) |
 | [0888-fair-candy-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/nikhiltomar2712/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/nikhiltomar2712/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/nikhiltomar2712/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/nikhiltomar2712/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1655,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/nikhiltomar2712/leetcode/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/nikhiltomar2712/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
