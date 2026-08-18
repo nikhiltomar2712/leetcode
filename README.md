@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiltomar2712/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0908-smallest-range-i) |
 | [0909-snakes-and-ladders](https://github.com/nikhiltomar2712/leetcode/tree/master/0909-snakes-and-ladders) |
+| [0910-smallest-range-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0910-smallest-range-ii) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/nikhiltomar2712/leetcode/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/nikhiltomar2712/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/nikhiltomar2712/leetcode/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/nikhiltomar2712/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0910-smallest-range-ii) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1543,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/nikhiltomar2712/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/nikhiltomar2712/leetcode/tree/master/0906-super-palindromes) |
 | [0908-smallest-range-i](https://github.com/nikhiltomar2712/leetcode/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0910-smallest-range-ii) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
