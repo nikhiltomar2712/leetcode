@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/nikhiltomar2712/leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
 | [0927-three-equal-parts](https://github.com/nikhiltomar2712/leetcode/tree/master/0927-three-equal-parts) |
+| [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/0916-word-subsets) |
 | [0923-3sum-with-multiplicity](https://github.com/nikhiltomar2712/leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1315,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/nikhiltomar2712/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1340,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1761,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
