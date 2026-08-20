@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/nikhiltomar2712/leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0927-three-equal-parts](https://github.com/nikhiltomar2712/leetcode/tree/master/0927-three-equal-parts) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1586,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nikhiltomar2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-number-of-music-playlists](https://github.com/nikhiltomar2712/leetcode/tree/master/0920-number-of-music-playlists) |
+| [0927-three-equal-parts](https://github.com/nikhiltomar2712/leetcode/tree/master/0927-three-equal-parts) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
