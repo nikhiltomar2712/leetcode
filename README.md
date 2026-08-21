@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/nikhiltomar2712/leetcode/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0936-stamping-the-sequence) |
 | [0942-di-string-match](https://github.com/nikhiltomar2712/leetcode/tree/master/0942-di-string-match) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/nikhiltomar2712/leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/nikhiltomar2712/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2360,6 +2363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-rle-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nikhiltomar2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/nikhiltomar2712/leetcode/tree/master/0923-3sum-with-multiplicity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
