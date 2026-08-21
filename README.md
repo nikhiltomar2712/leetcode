@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/nikhiltomar2712/leetcode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0939-minimum-area-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1383,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1816,6 +1819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2606,6 +2610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
