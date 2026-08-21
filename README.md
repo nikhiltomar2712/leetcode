@@ -2285,6 +2285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/nikhiltomar2712/leetcode/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/nikhiltomar2712/leetcode/tree/master/0911-online-election) |
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
+| [0933-number-of-recent-calls](https://github.com/nikhiltomar2712/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2395,6 +2396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/nikhiltomar2712/leetcode/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/nikhiltomar2712/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2407,6 +2409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nikhiltomar2712/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nikhiltomar2712/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Counting Sort
 |  |
 | ------- |
