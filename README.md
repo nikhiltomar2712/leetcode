@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/nikhiltomar2712/leetcode/tree/master/0925-long-pressed-name) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0929-unique-email-addresses](https://github.com/nikhiltomar2712/leetcode/tree/master/0929-unique-email-addresses) |
+| [0936-stamping-the-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0936-stamping-the-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nikhiltomar2712/leetcode/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0936-stamping-the-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1473,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/nikhiltomar2712/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiltomar2712/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0936-stamping-the-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -2402,6 +2405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/nikhiltomar2712/leetcode/tree/master/0933-number-of-recent-calls) |
+| [0936-stamping-the-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Queue
 |  |
 | ------- |
