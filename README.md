@@ -827,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Greedy
 |  |
 | ------- |
