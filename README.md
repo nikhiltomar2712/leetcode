@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/nikhiltomar2712/leetcode/tree/master/0948-bag-of-tokens) |
+| [0949-largest-time-for-given-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/nikhiltomar2712/leetcode/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0949-largest-time-for-given-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1965,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0869-reordered-power-of-2](https://github.com/nikhiltomar2712/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0906-super-palindromes](https://github.com/nikhiltomar2712/leetcode/tree/master/0906-super-palindromes) |
+| [0949-largest-time-for-given-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1291-sequential-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -2246,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/nikhiltomar2712/leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0949-largest-time-for-given-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
