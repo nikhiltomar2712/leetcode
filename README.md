@@ -1689,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/nikhiltomar2712/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/nikhiltomar2712/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0964-least-operators-to-express-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0964-least-operators-to-express-number) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1837,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0964-least-operators-to-express-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0964-least-operators-to-express-number) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -2109,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/0773-sliding-puzzle) |
 | [0894-all-possible-full-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
+| [0964-least-operators-to-express-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0964-least-operators-to-express-number) |
 ## Divide and Conquer
 |  |
 | ------- |
