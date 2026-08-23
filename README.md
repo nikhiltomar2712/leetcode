@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/nikhiltomar2712/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/nikhiltomar2712/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/nikhiltomar2712/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/nikhiltomar2712/leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -2695,4 +2697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/nikhiltomar2712/leetcode/tree/master/0959-regions-cut-by-slashes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
