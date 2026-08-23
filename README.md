@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0959-regions-cut-by-slashes](https://github.com/nikhiltomar2712/leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/0934-shortest-bridge) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/nikhiltomar2712/leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
