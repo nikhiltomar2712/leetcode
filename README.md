@@ -841,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/nikhiltomar2712/leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/0934-shortest-bridge) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
