@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/nikhiltomar2712/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0963-minimum-area-rectangle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/nikhiltomar2712/leetcode/tree/master/0966-vowel-spellchecker) |
+| [0969-pancake-sorting](https://github.com/nikhiltomar2712/leetcode/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1180,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nikhiltomar2712/leetcode/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0969-pancake-sorting](https://github.com/nikhiltomar2712/leetcode/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1282,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nikhiltomar2712/leetcode/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhiltomar2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0969-pancake-sorting](https://github.com/nikhiltomar2712/leetcode/tree/master/0969-pancake-sorting) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2107,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/nikhiltomar2712/leetcode/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/nikhiltomar2712/leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/nikhiltomar2712/leetcode/tree/master/0962-maximum-width-ramp) |
+| [0969-pancake-sorting](https://github.com/nikhiltomar2712/leetcode/tree/master/0969-pancake-sorting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
