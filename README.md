@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/nikhiltomar2712/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0969-pancake-sorting](https://github.com/nikhiltomar2712/leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/nikhiltomar2712/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0970-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/0970-powerful-integers) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -2359,6 +2361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
