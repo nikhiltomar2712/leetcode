@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [0980-unique-paths-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1524,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/nikhiltomar2712/leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0980-unique-paths-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0980-unique-paths-iii) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -2021,6 +2023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0957-prison-cells-after-n-days](https://github.com/nikhiltomar2712/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0980-unique-paths-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -2361,6 +2364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/nikhiltomar2712/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0980-unique-paths-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -2758,6 +2762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0980-unique-paths-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
