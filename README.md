@@ -1765,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/nikhiltomar2712/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/nikhiltomar2712/leetcode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/nikhiltomar2712/leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -2134,6 +2135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhiltomar2712/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/nikhiltomar2712/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/nikhiltomar2712/leetcode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
@@ -2475,6 +2477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nikhiltomar2712/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
