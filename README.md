@@ -2889,6 +2889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0879-profitable-schemes](https://github.com/nikhiltomar2712/leetcode/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0956-tallest-billboard) |
 ## 0-1 Knapsack
@@ -2977,6 +2978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 ## Sqrt Decomposition
 |  |
 | ------- |
