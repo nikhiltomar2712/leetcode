@@ -1098,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/nikhiltomar2712/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/nikhiltomar2712/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/0400-nth-digit) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -2436,6 +2437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhiltomar2712/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/nikhiltomar2712/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
 |  |
 | ------- |
