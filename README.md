@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0284-peeking-iterator) |
+| [0289-game-of-life](https://github.com/nikhiltomar2712/leetcode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -1542,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/nikhiltomar2712/leetcode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhiltomar2712/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2013,6 +2015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nikhiltomar2712/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/nikhiltomar2712/leetcode/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/nikhiltomar2712/leetcode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/nikhiltomar2712/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0566-reshape-the-matrix) |
