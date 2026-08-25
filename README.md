@@ -1736,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/nikhiltomar2712/leetcode/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/nikhiltomar2712/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -2788,6 +2789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/nikhiltomar2712/leetcode/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Zero-Sum Game
 |  |
