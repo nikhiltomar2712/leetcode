@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0284-peeking-iterator) |
 | [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -2512,6 +2513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/nikhiltomar2712/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/nikhiltomar2712/leetcode/tree/master/0355-design-twitter) |
@@ -2591,6 +2593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0900-rle-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0900-rle-iterator) |
 ## Number Theory
