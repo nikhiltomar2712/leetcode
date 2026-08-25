@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0327-count-of-range-sum) |
+| [0330-patching-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0402-remove-k-digits) |
