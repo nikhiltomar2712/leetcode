@@ -1783,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nikhiltomar2712/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/nikhiltomar2712/leetcode/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/nikhiltomar2712/leetcode/tree/master/0382-linked-list-random-node) |
@@ -1953,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/nikhiltomar2712/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/nikhiltomar2712/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0392-is-subsequence) |
@@ -2819,6 +2821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/nikhiltomar2712/leetcode/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
@@ -2893,6 +2896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
