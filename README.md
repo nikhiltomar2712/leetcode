@@ -1766,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/nikhiltomar2712/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/nikhiltomar2712/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -1933,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/nikhiltomar2712/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0376-wiggle-subsequence) |
