@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0975-odd-even-jump](https://github.com/nikhiltomar2712/leetcode/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1301,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/nikhiltomar2712/leetcode/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2137,6 +2139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nikhiltomar2712/leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/nikhiltomar2712/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/nikhiltomar2712/leetcode/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
