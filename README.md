@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/nikhiltomar2712/leetcode/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1757,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/nikhiltomar2712/leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/nikhiltomar2712/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/nikhiltomar2712/leetcode/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -2165,6 +2167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nikhiltomar2712/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/nikhiltomar2712/leetcode/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/nikhiltomar2712/leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/nikhiltomar2712/leetcode/tree/master/0587-erect-the-fence) |
