@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/nikhiltomar2712/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/nikhiltomar2712/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/nikhiltomar2712/leetcode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/nikhiltomar2712/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/nikhiltomar2712/leetcode/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nikhiltomar2712/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
