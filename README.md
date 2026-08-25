@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/nikhiltomar2712/leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nikhiltomar2712/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhiltomar2712/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/nikhiltomar2712/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/nikhiltomar2712/leetcode/tree/master/0388-longest-absolute-file-path) |
@@ -1683,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhiltomar2712/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -2221,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nikhiltomar2712/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0392-is-subsequence) |
