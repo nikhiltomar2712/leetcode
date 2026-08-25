@@ -871,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhiltomar2712/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhiltomar2712/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhiltomar2712/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -2680,6 +2683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/nikhiltomar2712/leetcode/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Ternary Search
 |  |
 | ------- |
