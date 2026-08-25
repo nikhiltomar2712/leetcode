@@ -1095,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/nikhiltomar2712/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/0400-nth-digit) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1773,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nikhiltomar2712/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/nikhiltomar2712/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/nikhiltomar2712/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhiltomar2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhiltomar2712/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/nikhiltomar2712/leetcode/tree/master/0382-linked-list-random-node) |
