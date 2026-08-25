@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhiltomar2712/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/nikhiltomar2712/leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nikhiltomar2712/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/nikhiltomar2712/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/nikhiltomar2712/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/nikhiltomar2712/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/nikhiltomar2712/leetcode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -2098,6 +2100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nikhiltomar2712/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/nikhiltomar2712/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/nikhiltomar2712/leetcode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/0397-integer-replacement) |
