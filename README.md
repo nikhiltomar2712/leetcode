@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhiltomar2712/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/nikhiltomar2712/leetcode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -1317,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1409,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nikhiltomar2712/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikhiltomar2712/leetcode/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -2020,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/nikhiltomar2712/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikhiltomar2712/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhiltomar2712/leetcode/tree/master/0684-redundant-connection) |
@@ -2783,6 +2789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Eulerian Circuit
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/nikhiltomar2712/leetcode/tree/master/0753-cracking-the-safe) |
 ## Directed Acyclic Graph
 |  |
@@ -3004,4 +3011,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nikhiltomar2712/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0327-count-of-range-sum) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/nikhiltomar2712/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
