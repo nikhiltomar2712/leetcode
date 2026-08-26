@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/nikhiltomar2712/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/nikhiltomar2712/leetcode/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1890,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-equal-rational-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/0972-equal-rational-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
