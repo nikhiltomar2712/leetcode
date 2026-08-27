@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/nikhiltomar2712/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nikhiltomar2712/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1002-find-common-characters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/nikhiltomar2712/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -1761,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/nikhiltomar2712/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/nikhiltomar2712/leetcode/tree/master/0975-odd-even-jump) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/nikhiltomar2712/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
