@@ -972,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nikhiltomar2712/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0998-maximum-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nikhiltomar2712/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0998-maximum-binary-tree-ii) |
 ## Greedy
 |  |
 | ------- |
