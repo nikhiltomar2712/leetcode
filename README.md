@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/nikhiltomar2712/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/nikhiltomar2712/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1349,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/nikhiltomar2712/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/nikhiltomar2712/leetcode/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/nikhiltomar2712/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/nikhiltomar2712/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
