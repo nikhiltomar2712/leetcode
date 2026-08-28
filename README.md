@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/nikhiltomar2712/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/nikhiltomar2712/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/nikhiltomar2712/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0998-maximum-binary-tree-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0981-time-based-key-value-store](https://github.com/nikhiltomar2712/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1282,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/nikhiltomar2712/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0998-maximum-binary-tree-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -1773,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/nikhiltomar2712/leetcode/tree/master/0975-odd-even-jump) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nikhiltomar2712/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/nikhiltomar2712/leetcode/tree/master/1006-clumsy-factorial) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -1794,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiltomar2712/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/nikhiltomar2712/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/nikhiltomar2712/leetcode/tree/master/0975-odd-even-jump) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
