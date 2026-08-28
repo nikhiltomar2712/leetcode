@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nikhiltomar2712/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhiltomar2712/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1359,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/nikhiltomar2712/leetcode/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/nikhiltomar2712/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/nikhiltomar2712/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
