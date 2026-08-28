@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/nikhiltomar2712/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nikhiltomar2712/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhiltomar2712/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1195,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/nikhiltomar2712/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhiltomar2712/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
