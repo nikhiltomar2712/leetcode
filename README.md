@@ -1962,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/nikhiltomar2712/leetcode/tree/master/1006-clumsy-factorial) |
 | [1012-numbers-with-repeated-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1017-convert-to-base-2](https://github.com/nikhiltomar2712/leetcode/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
