@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1020-number-of-enclaves) |
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
 | [1024-video-stitching](https://github.com/nikhiltomar2712/leetcode/tree/master/1024-video-stitching) |
+| [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nikhiltomar2712/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhiltomar2712/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2162,6 +2165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/nikhiltomar2712/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/nikhiltomar2712/leetcode/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1025-divisor-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
