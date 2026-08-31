@@ -2007,6 +2007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-convert-to-base-2](https://github.com/nikhiltomar2712/leetcode/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1033-moving-stones-until-consecutive](https://github.com/nikhiltomar2712/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -3044,6 +3045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/nikhiltomar2712/leetcode/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/nikhiltomar2712/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 ## Zero-Sum Game
 |  |
 | ------- |
