@@ -2637,6 +2637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/nikhiltomar2712/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
