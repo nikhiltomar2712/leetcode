@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -2689,6 +2691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0820-short-encoding-of-words](https://github.com/nikhiltomar2712/leetcode/tree/master/0820-short-encoding-of-words) |
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
+| [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -2841,6 +2844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/nikhiltomar2712/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/nikhiltomar2712/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/nikhiltomar2712/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2983,6 +2987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nikhiltomar2712/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nikhiltomar2712/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -3265,4 +3270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
