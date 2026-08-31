@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/nikhiltomar2712/leetcode/tree/master/1034-coloring-a-border) |
 | [1035-uncrossed-lines](https://github.com/nikhiltomar2712/leetcode/tree/master/1035-uncrossed-lines) |
 | [1036-escape-a-large-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1036-escape-a-large-maze) |
+| [1037-valid-boomerang](https://github.com/nikhiltomar2712/leetcode/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -2017,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1033-moving-stones-until-consecutive](https://github.com/nikhiltomar2712/leetcode/tree/master/1033-moving-stones-until-consecutive) |
+| [1037-valid-boomerang](https://github.com/nikhiltomar2712/leetcode/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -2376,6 +2378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/nikhiltomar2712/leetcode/tree/master/1037-valid-boomerang) |
 ## Rejection Sampling
 |  |
 | ------- |
