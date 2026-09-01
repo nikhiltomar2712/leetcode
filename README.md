@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nikhiltomar2712/leetcode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/nikhiltomar2712/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1053-previous-permutation-with-one-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
+| [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1435,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/nikhiltomar2712/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
 | [1053-previous-permutation-with-one-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1553,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/nikhiltomar2712/leetcode/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1605,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2949,6 +2954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nikhiltomar2712/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
