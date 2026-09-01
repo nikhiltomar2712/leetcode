@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1037-valid-boomerang](https://github.com/nikhiltomar2712/leetcode/tree/master/1037-valid-boomerang) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/nikhiltomar2712/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1529,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/nikhiltomar2712/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2028,6 +2031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1033-moving-stones-until-consecutive](https://github.com/nikhiltomar2712/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/nikhiltomar2712/leetcode/tree/master/1037-valid-boomerang) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
