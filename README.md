@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1036-escape-a-large-maze) |
+| [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1541,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2223,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/nikhiltomar2712/leetcode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/nikhiltomar2712/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -2526,6 +2531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nikhiltomar2712/leetcode/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
+| [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
