@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
+| [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -2032,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/nikhiltomar2712/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/nikhiltomar2712/leetcode/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -2295,6 +2297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0999-available-captures-for-rook](https://github.com/nikhiltomar2712/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1006-clumsy-factorial](https://github.com/nikhiltomar2712/leetcode/tree/master/1006-clumsy-factorial) |
+| [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
