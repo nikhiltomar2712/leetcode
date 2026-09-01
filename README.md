@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 | [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhiltomar2712/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2959,6 +2962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -2979,6 +2983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/nikhiltomar2712/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nikhiltomar2712/leetcode/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Quickselect
 |  |
 | ------- |
@@ -3259,6 +3264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -3268,6 +3274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -3326,4 +3333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/nikhiltomar2712/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
