@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/nikhiltomar2712/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1073-adding-two-negabinary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -2071,6 +2072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1073-adding-two-negabinary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
