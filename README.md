@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1073-adding-two-negabinary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1818,6 +1820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1034-coloring-a-border](https://github.com/nikhiltomar2712/leetcode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -2844,6 +2847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nikhiltomar2712/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
