@@ -1061,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nikhiltomar2712/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1183,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nikhiltomar2712/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1376,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nikhiltomar2712/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 ## Greedy
 |  |
 | ------- |
