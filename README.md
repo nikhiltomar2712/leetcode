@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1073-adding-two-negabinary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1089-duplicate-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -2567,6 +2568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/nikhiltomar2712/leetcode/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
+| [1089-duplicate-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/1089-duplicate-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
