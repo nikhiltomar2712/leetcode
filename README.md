@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1078-occurrences-after-bigram](https://github.com/nikhiltomar2712/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1079-letter-tile-possibilities](https://github.com/nikhiltomar2712/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1092-shortest-common-supersequence) |
