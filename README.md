@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/nikhiltomar2712/leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/nikhiltomar2712/leetcode/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1288,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
+| [1095-find-in-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1095-find-in-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2703,6 +2705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhiltomar2712/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nikhiltomar2712/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Linked List
 |  |
 | ------- |
@@ -3220,6 +3223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Bracket Sequences
 |  |
 | ------- |
