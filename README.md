@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/nikhiltomar2712/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/nikhiltomar2712/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1090-largest-values-from-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/1090-largest-values-from-labels) |
+| [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1585,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/nikhiltomar2712/leetcode/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1738,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nikhiltomar2712/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1919,6 +1923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2848,6 +2853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/nikhiltomar2712/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0996-number-of-squareful-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/nikhiltomar2712/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
