@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1105-filling-bookcase-shelves](https://github.com/nikhiltomar2712/leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1109-corporate-flight-bookings](https://github.com/nikhiltomar2712/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/nikhiltomar2712/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1090-largest-values-from-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1210,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nikhiltomar2712/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1406,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Greedy
 |  |
 | ------- |
