@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-maximum-of-absolute-value-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1139-largest-1-bordered-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/nikhiltomar2712/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1507,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1090-largest-values-from-labels](https://github.com/nikhiltomar2712/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/nikhiltomar2712/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
