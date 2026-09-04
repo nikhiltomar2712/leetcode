@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1122-relative-sort-array) |
 | [1124-longest-well-performing-interval](https://github.com/nikhiltomar2712/leetcode/tree/master/1124-longest-well-performing-interval) |
+| [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -2327,6 +2328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1105-filling-bookcase-shelves](https://github.com/nikhiltomar2712/leetcode/tree/master/1105-filling-bookcase-shelves) |
+| [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -2489,6 +2491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nikhiltomar2712/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2961,6 +2964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0996-number-of-squareful-arrays) |
+| [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 ## Design
 |  |
 | ------- |
