@@ -1082,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1400,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -2115,6 +2117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1073-adding-two-negabinary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1093-statistics-from-a-large-sample](https://github.com/nikhiltomar2712/leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
