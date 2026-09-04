@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -2151,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/nikhiltomar2712/leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1103-distribute-candies-to-people](https://github.com/nikhiltomar2712/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
