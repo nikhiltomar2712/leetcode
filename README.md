@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/nikhiltomar2712/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1138-alphabet-board-path](https://github.com/nikhiltomar2712/leetcode/tree/master/1138-alphabet-board-path) |
+| [1143-longest-common-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2348,6 +2349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1139-largest-1-bordered-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
@@ -3491,6 +3493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1035-uncrossed-lines](https://github.com/nikhiltomar2712/leetcode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bidirectional Search
 |  |
 | ------- |
