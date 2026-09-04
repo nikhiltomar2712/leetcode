@@ -1778,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2374,6 +2375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/nikhiltomar2712/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/nikhiltomar2712/leetcode/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nikhiltomar2712/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
