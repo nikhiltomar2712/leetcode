@@ -3476,4 +3476,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/nikhiltomar2712/leetcode/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
