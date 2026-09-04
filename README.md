@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1139-largest-1-bordered-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -1889,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1139-largest-1-bordered-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -2343,6 +2345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1139-largest-1-bordered-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
