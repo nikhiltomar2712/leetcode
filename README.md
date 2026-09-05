@@ -1123,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1145-binary-tree-coloring-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1145-binary-tree-coloring-game) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1249,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1145-binary-tree-coloring-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1145-binary-tree-coloring-game) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1450,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/nikhiltomar2712/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1145-binary-tree-coloring-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1145-binary-tree-coloring-game) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -1809,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
