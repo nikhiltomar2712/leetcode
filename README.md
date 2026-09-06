@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nikhiltomar2712/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/nikhiltomar2712/leetcode/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/nikhiltomar2712/leetcode/tree/master/1158-market-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/nikhiltomar2712/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1251-average-selling-price](https://github.com/nikhiltomar2712/leetcode/tree/master/1251-average-selling-price) |
 ## Hash Table
 |  |
