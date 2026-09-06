@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1154-day-of-the-year) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2693,6 +2694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nikhiltomar2712/leetcode/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/1089-duplicate-zeros) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/nikhiltomar2712/leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -3583,4 +3585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1157-online-majority-element-in-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
