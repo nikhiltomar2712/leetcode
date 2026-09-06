@@ -970,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/nikhiltomar2712/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/nikhiltomar2712/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1172-dinner-plate-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1723,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/nikhiltomar2712/leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/nikhiltomar2712/leetcode/tree/master/1094-car-pooling) |
+| [1172-dinner-plate-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2015,6 +2017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/nikhiltomar2712/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1172-dinner-plate-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3089,6 +3092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 | [1146-snapshot-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1146-snapshot-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+| [1172-dinner-plate-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
