@@ -2207,6 +2207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
@@ -3403,6 +3404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0866-prime-palindrome) |
+| [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
@@ -3606,4 +3608,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
