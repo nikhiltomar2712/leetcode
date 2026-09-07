@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2056,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1172-dinner-plate-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
