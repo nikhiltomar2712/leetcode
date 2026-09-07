@@ -2456,6 +2456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1191-k-concatenation-maximum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1220-count-vowels-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1220-count-vowels-permutation) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
