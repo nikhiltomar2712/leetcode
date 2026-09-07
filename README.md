@@ -1284,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/nikhiltomar2712/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1857,6 +1858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/nikhiltomar2712/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2478,6 +2480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/nikhiltomar2712/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/nikhiltomar2712/leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2538,6 +2541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/nikhiltomar2712/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -3324,6 +3328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/nikhiltomar2712/leetcode/tree/master/0851-loud-and-rich) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
