@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1219-path-with-maximum-gold](https://github.com/nikhiltomar2712/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1222-queens-that-can-attack-the-king](https://github.com/nikhiltomar2712/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1986,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/nikhiltomar2712/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/nikhiltomar2712/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1219-path-with-maximum-gold](https://github.com/nikhiltomar2712/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1222-queens-that-can-attack-the-king](https://github.com/nikhiltomar2712/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -2551,6 +2553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/nikhiltomar2712/leetcode/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/nikhiltomar2712/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1222-queens-that-can-attack-the-king](https://github.com/nikhiltomar2712/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
