@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/nikhiltomar2712/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1578,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/nikhiltomar2712/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/nikhiltomar2712/leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2253,6 +2255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/nikhiltomar2712/leetcode/tree/master/1185-day-of-the-week) |
 | [1201-ugly-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1201-ugly-number-iii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
