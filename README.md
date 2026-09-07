@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/nikhiltomar2712/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1866,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/nikhiltomar2712/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/nikhiltomar2712/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1974,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1139-largest-1-bordered-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/nikhiltomar2712/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/nikhiltomar2712/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
