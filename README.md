@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/nikhiltomar2712/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/nikhiltomar2712/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -2451,6 +2453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikhiltomar2712/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1191-k-concatenation-maximum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
