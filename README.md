@@ -2216,6 +2216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
+| [1185-day-of-the-week](https://github.com/nikhiltomar2712/leetcode/tree/master/1185-day-of-the-week) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
