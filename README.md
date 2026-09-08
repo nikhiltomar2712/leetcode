@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-dice-roll-simulation](https://github.com/nikhiltomar2712/leetcode/tree/master/1223-dice-roll-simulation) |
 | [1224-maximum-equal-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1224-maximum-equal-frequency) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/nikhiltomar2712/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/nikhiltomar2712/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nikhiltomar2712/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -3008,6 +3011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
 | [1032-stream-of-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1032-stream-of-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
 | ------- |
