@@ -3682,6 +3682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-print-zero-even-odd](https://github.com/nikhiltomar2712/leetcode/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/nikhiltomar2712/leetcode/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/nikhiltomar2712/leetcode/tree/master/1195-fizz-buzz-multithreaded) |
+| [1226-the-dining-philosophers](https://github.com/nikhiltomar2712/leetcode/tree/master/1226-the-dining-philosophers) |
 ## Cartesian Tree
 |  |
 | ------- |
