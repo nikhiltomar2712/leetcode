@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/nikhiltomar2712/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2652,6 +2654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/nikhiltomar2712/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -3075,6 +3078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/nikhiltomar2712/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/nikhiltomar2712/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
