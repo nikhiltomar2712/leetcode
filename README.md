@@ -1412,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1201-ugly-number-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2278,6 +2279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/nikhiltomar2712/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
@@ -2797,6 +2799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/1089-duplicate-zeros) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/nikhiltomar2712/leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -2919,6 +2922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nikhiltomar2712/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nikhiltomar2712/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Linked List
 |  |
 | ------- |
