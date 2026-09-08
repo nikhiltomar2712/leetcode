@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/nikhiltomar2712/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
