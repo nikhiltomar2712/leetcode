@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-maximum-equal-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1224-maximum-equal-frequency) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/nikhiltomar2712/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1410,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1201-ugly-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1201-ugly-number-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1722,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/nikhiltomar2712/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2475,6 +2478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-count-vowels-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/nikhiltomar2712/leetcode/tree/master/1223-dice-roll-simulation) |
 | [1227-airplane-seat-assignment-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
