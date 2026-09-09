@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1600,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/nikhiltomar2712/leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2283,6 +2285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/nikhiltomar2712/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/nikhiltomar2712/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
