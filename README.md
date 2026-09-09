@@ -3080,6 +3080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/nikhiltomar2712/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/nikhiltomar2712/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
