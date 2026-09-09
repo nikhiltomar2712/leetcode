@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1224-maximum-equal-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1224-maximum-equal-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -2501,6 +2504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-dice-roll-simulation](https://github.com/nikhiltomar2712/leetcode/tree/master/1223-dice-roll-simulation) |
 | [1227-airplane-seat-assignment-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
@@ -2672,6 +2676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/nikhiltomar2712/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -3097,6 +3102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1238-circular-permutation-in-binary-representation](https://github.com/nikhiltomar2712/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -3168,6 +3174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/nikhiltomar2712/leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Design
 |  |
 | ------- |
@@ -3270,6 +3277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhiltomar2712/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
