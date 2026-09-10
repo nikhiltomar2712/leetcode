@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nikhiltomar2712/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
