@@ -2533,6 +2533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
