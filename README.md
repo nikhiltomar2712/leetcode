@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nikhiltomar2712/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nikhiltomar2712/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1634,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nikhiltomar2712/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
