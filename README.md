@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1268-search-suggestions-system) |
 | [1278-palindrome-partitioning-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1278-palindrome-partitioning-iii) |
+| [1286-iterator-for-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/1286-iterator-for-combination) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -3156,6 +3157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1286-iterator-for-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/1286-iterator-for-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -3280,6 +3282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1172-dinner-plate-stacks](https://github.com/nikhiltomar2712/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1206-design-skiplist](https://github.com/nikhiltomar2712/leetcode/tree/master/1206-design-skiplist) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1286-iterator-for-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/1286-iterator-for-combination) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -3346,6 +3349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0900-rle-iterator](https://github.com/nikhiltomar2712/leetcode/tree/master/0900-rle-iterator) |
+| [1286-iterator-for-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/1286-iterator-for-combination) |
 ## Number Theory
 |  |
 | ------- |
