@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/nikhiltomar2712/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -2049,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nikhiltomar2712/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1267-count-servers-that-communicate](https://github.com/nikhiltomar2712/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2538,6 +2540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
