@@ -1686,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nikhiltomar2712/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1323-maximum-69-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -2414,6 +2415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
