@@ -1237,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikhiltomar2712/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1306-jump-game-iii) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikhiltomar2712/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1592,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikhiltomar2712/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
@@ -1988,6 +1991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nikhiltomar2712/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nikhiltomar2712/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
