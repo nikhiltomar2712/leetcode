@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1314-matrix-block-sum) |
 | [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1692,6 +1693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nikhiltomar2712/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1323-maximum-69-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -2631,6 +2633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nikhiltomar2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
