@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nikhiltomar2712/leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1316-distinct-echo-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nikhiltomar2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2621,6 +2622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nikhiltomar2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
