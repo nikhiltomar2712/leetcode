@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/nikhiltomar2712/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1313-decompress-run-length-encoded-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1314-matrix-block-sum) |
+| [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1316-distinct-echo-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nikhiltomar2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2724,6 +2726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
