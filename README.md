@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nikhiltomar2712/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
@@ -1698,6 +1699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1328-break-a-palindrome) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -2429,6 +2431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1323-maximum-69-number) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
