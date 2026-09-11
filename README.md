@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nikhiltomar2712/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1313-decompress-run-length-encoded-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
