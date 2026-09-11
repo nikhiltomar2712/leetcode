@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2647,6 +2648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nikhiltomar2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
