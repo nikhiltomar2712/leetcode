@@ -2452,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1323-maximum-69-number) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -2847,6 +2848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nikhiltomar2712/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
