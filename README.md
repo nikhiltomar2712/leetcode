@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nikhiltomar2712/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -1705,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/nikhiltomar2712/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1328-break-a-palindrome) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -1843,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1901,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nikhiltomar2712/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1268-search-suggestions-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
