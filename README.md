@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1525,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2180,6 +2182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/nikhiltomar2712/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
