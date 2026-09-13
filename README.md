@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
 | [1328-break-a-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1328-break-a-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -3480,6 +3482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/nikhiltomar2712/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
