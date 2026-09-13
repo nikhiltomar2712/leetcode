@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2178,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nikhiltomar2712/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2686,6 +2688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1340-jump-game-v) |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -2869,6 +2872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nikhiltomar2712/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -3381,6 +3385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 ## Design
 |  |
 | ------- |
@@ -3800,6 +3805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
@@ -4007,4 +4013,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhiltomar2712/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Maximum Flow
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Matching
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Minimum Cut
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Flow Network
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->
