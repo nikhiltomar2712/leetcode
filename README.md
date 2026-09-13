@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1340-jump-game-v) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1345-jump-game-iv) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1345-jump-game-iv) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1859,6 +1862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikhiltomar2712/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1340-jump-game-v) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3012,6 +3016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1163-last-substring-in-lexicographical-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
