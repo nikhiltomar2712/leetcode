@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nikhiltomar2712/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nikhiltomar2712/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1348-tweet-counts-per-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -3456,6 +3458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-iterator-for-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/1286-iterator-for-combination) |
 | [1348-tweet-counts-per-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 ## Doubly-Linked List
 |  |
 | ------- |
