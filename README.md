@@ -2489,6 +2489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhiltomar2712/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nikhiltomar2712/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -2704,6 +2705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nikhiltomar2712/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nikhiltomar2712/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -3380,6 +3382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/nikhiltomar2712/leetcode/tree/master/0920-number-of-music-playlists) |
 | [1201-ugly-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1201-ugly-number-iii) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nikhiltomar2712/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
