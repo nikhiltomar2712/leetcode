@@ -1292,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1551,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/nikhiltomar2712/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1665,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
@@ -2741,6 +2745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nikhiltomar2712/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1363-largest-multiple-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -3792,6 +3797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhiltomar2712/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Ternary Search
 |  |
 | ------- |
