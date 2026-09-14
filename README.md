@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/nikhiltomar2712/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2128,6 +2130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/nikhiltomar2712/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1377-frog-position-after-t-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2167,6 +2170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/nikhiltomar2712/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhiltomar2712/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2262,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
