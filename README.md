@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1363-largest-multiple-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1363-largest-multiple-of-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1888,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nikhiltomar2712/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1363-largest-multiple-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1363-largest-multiple-of-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3648,6 +3651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/nikhiltomar2712/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
