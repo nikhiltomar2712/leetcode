@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-find-all-good-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1397-find-all-good-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nikhiltomar2712/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1405-longest-happy-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1405-longest-happy-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1808,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1402-reducing-dishes](https://github.com/nikhiltomar2712/leetcode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1405-longest-happy-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1405-longest-happy-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2024,6 +2026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1388-pizza-with-3n-slices](https://github.com/nikhiltomar2712/leetcode/tree/master/1388-pizza-with-3n-slices) |
+| [1405-longest-happy-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
