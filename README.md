@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/nikhiltomar2712/leetcode/tree/master/1388-pizza-with-3n-slices) |
+| [1389-create-target-array-in-the-given-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -2887,6 +2888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
+| [1389-create-target-array-in-the-given-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
