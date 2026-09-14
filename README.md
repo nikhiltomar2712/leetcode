@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/nikhiltomar2712/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -2325,6 +2326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3524,6 +3526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
