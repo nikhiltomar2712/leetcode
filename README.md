@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3654,6 +3655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/nikhiltomar2712/leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1316-distinct-echo-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
@@ -3663,6 +3665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/nikhiltomar2712/leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
+| [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
@@ -3677,6 +3680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/nikhiltomar2712/leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1316-distinct-echo-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Quickselect
 |  |
 | ------- |
@@ -3992,10 +3996,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/nikhiltomar2712/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
