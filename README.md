@@ -849,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
+| [1396-design-underground-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1396-design-underground-system) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1396-design-underground-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1396-design-underground-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -3565,6 +3567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1357-apply-discount-every-n-orders](https://github.com/nikhiltomar2712/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1396-design-underground-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1396-design-underground-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
