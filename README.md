@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -3616,6 +3618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/nikhiltomar2712/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
