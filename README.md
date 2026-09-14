@@ -1933,6 +1933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/nikhiltomar2712/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1383-maximum-performance-of-a-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2775,6 +2776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1387-sort-integers-by-the-power-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -3142,6 +3144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/nikhiltomar2712/leetcode/tree/master/0913-cat-and-mouse) |
 | [0964-least-operators-to-express-number](https://github.com/nikhiltomar2712/leetcode/tree/master/0964-least-operators-to-express-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Divide and Conquer
 |  |
 | ------- |
