@@ -2497,6 +2497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nikhiltomar2712/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1360-number-of-days-between-two-dates](https://github.com/nikhiltomar2712/leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1362-closest-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1362-closest-divisors) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -3865,6 +3866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/nikhiltomar2712/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1362-closest-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1362-closest-divisors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
