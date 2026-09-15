@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nikhiltomar2712/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1410-html-entity-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/1410-html-entity-parser) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1396-design-underground-system) |
 | [1399-count-largest-group](https://github.com/nikhiltomar2712/leetcode/tree/master/1399-count-largest-group) |
 | [1400-construct-k-palindrome-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [1410-html-entity-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/1410-html-entity-parser) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
