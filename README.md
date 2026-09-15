@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/nikhiltomar2712/leetcode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nikhiltomar2712/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1405-longest-happy-string) |
+| [1408-string-matching-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3707,6 +3709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/nikhiltomar2712/leetcode/tree/master/1023-camelcase-matching) |
 | [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1397-find-all-good-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1397-find-all-good-strings) |
+| [1408-string-matching-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
