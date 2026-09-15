@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/nikhiltomar2712/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2930,6 +2931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/nikhiltomar2712/leetcode/tree/master/1324-print-words-vertically) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nikhiltomar2712/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/nikhiltomar2712/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
@@ -3243,6 +3245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1157-online-majority-element-in-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/nikhiltomar2712/leetcode/tree/master/1395-count-number-of-teams) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/nikhiltomar2712/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Segment Tree
 |  |
 | ------- |
@@ -4062,6 +4065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nikhiltomar2712/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1157-online-majority-element-in-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/nikhiltomar2712/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Treap
 |  |
 | ------- |
