@@ -2608,6 +2608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -2834,6 +2835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1416-restore-the-array) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3515,6 +3517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -3530,6 +3533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/nikhiltomar2712/leetcode/tree/master/0920-number-of-music-playlists) |
 | [1201-ugly-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1201-ugly-number-iii) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nikhiltomar2712/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
