@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1424-diagonal-traverse-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikhiltomar2712/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2856,6 +2857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nikhiltomar2712/leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1425-constrained-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -3052,6 +3054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhiltomar2712/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/nikhiltomar2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nikhiltomar2712/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -3584,6 +3587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/nikhiltomar2712/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Design
 |  |
 | ------- |
@@ -4028,6 +4032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/nikhiltomar2712/leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
@@ -4269,6 +4274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Flow Network
 |  |
 | ------- |
@@ -4281,4 +4287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Perfect Matching
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->
