@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -2668,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1447-simplified-fractions](https://github.com/nikhiltomar2712/leetcode/tree/master/1447-simplified-fractions) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -3130,6 +3132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/nikhiltomar2712/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nikhiltomar2712/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Rejection Sampling
 |  |
 | ------- |
