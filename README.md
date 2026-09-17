@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -1188,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -2031,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1424-diagonal-traverse-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
