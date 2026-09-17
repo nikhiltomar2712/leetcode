@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1473-paint-house-iii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2473,6 +2474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2498,6 +2500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/nikhiltomar2712/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
