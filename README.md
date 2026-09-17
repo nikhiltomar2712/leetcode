@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1436-destination-city](https://github.com/nikhiltomar2712/leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1410-html-entity-parser](https://github.com/nikhiltomar2712/leetcode/tree/master/1410-html-entity-parser) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nikhiltomar2712/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1436-destination-city](https://github.com/nikhiltomar2712/leetcode/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhiltomar2712/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1425-constrained-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1618,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2861,6 +2865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nikhiltomar2712/leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1425-constrained-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
