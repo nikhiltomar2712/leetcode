@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1463-cherry-pickup-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
@@ -2375,6 +2376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/nikhiltomar2712/leetcode/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/nikhiltomar2712/leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1463-cherry-pickup-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2918,6 +2920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/nikhiltomar2712/leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
