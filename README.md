@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/nikhiltomar2712/leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
