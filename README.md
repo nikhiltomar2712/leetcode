@@ -2735,6 +2735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1478-allocate-mailboxes](https://github.com/nikhiltomar2712/leetcode/tree/master/1478-allocate-mailboxes) |
 | [1486-xor-operation-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -3873,6 +3874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/nikhiltomar2712/leetcode/tree/master/1447-simplified-fractions) |
+| [1492-the-kth-factor-of-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4217,6 +4219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/nikhiltomar2712/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1362-closest-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
