@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhiltomar2712/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1487-making-file-names-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/1487-making-file-names-unique) |
 | [1488-avoid-flood-in-the-city](https://github.com/nikhiltomar2712/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nikhiltomar2712/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -2074,6 +2075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/nikhiltomar2712/leetcode/tree/master/1478-allocate-mailboxes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nikhiltomar2712/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
