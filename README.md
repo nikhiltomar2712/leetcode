@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhiltomar2712/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1487-making-file-names-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/1487-making-file-names-unique) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhiltomar2712/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1487-making-file-names-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/1487-making-file-names-unique) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1487-making-file-names-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/1487-making-file-names-unique) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
