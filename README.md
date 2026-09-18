@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhiltomar2712/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1499-max-value-of-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1499-max-value-of-equation) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/nikhiltomar2712/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -2432,6 +2433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/nikhiltomar2712/leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1463-cherry-pickup-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1476-subrectangle-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1476-subrectangle-queries) |
+| [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2518,6 +2520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2544,6 +2547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/nikhiltomar2712/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
@@ -2990,6 +2994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1494-parallel-courses-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1494-parallel-courses-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
