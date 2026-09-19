@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1515-best-position-for-a-service-centre](https://github.com/nikhiltomar2712/leetcode/tree/master/1515-best-position-for-a-service-centre) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1711,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/nikhiltomar2712/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhiltomar2712/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3231,6 +3233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1486-xor-operation-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1494-parallel-courses-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1494-parallel-courses-ii) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -3487,6 +3490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-online-majority-element-in-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/nikhiltomar2712/leetcode/tree/master/1395-count-number-of-teams) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
@@ -4518,4 +4522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Sparse Table
+|  |
+| ------- |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 <!---LeetCode Topics End-->
