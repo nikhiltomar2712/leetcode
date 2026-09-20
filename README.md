@@ -1439,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -1597,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1841,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
@@ -4192,6 +4195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Ternary Search
 |  |
 | ------- |
