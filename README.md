@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/nikhiltomar2712/leetcode/tree/master/1534-count-good-triplets) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3321,6 +3322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0970-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/nikhiltomar2712/leetcode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
