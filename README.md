@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/nikhiltomar2712/leetcode/tree/master/1534-count-good-triplets) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3163,6 +3164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/nikhiltomar2712/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1518-water-bottles](https://github.com/nikhiltomar2712/leetcode/tree/master/1518-water-bottles) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
