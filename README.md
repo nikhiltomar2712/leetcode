@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1528-shuffle-string) |
 | [1529-minimum-suffix-flips](https://github.com/nikhiltomar2712/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1531-string-compression-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1531-string-compression-ii) |
+| [1540-can-convert-string-in-k-moves](https://github.com/nikhiltomar2712/leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1253,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1540-can-convert-string-in-k-moves](https://github.com/nikhiltomar2712/leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
