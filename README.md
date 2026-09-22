@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/nikhiltomar2712/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1989,6 +1990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2158,6 +2160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nikhiltomar2712/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -2839,6 +2842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhiltomar2712/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -4147,6 +4151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
