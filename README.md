@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/nikhiltomar2712/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1271,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1540-can-convert-string-in-k-moves](https://github.com/nikhiltomar2712/leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1542-find-longest-awesome-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1542-find-longest-awesome-substring) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1752,6 +1754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1539-kth-missing-positive-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3216,6 +3219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/nikhiltomar2712/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
+| [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
