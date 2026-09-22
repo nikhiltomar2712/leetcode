@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-find-longest-awesome-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1542-find-longest-awesome-substring) |
 | [1544-make-the-string-great](https://github.com/nikhiltomar2712/leetcode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1556-thousand-separator](https://github.com/nikhiltomar2712/leetcode/tree/master/1556-thousand-separator) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
