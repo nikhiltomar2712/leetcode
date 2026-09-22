@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/nikhiltomar2712/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1621,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2360,6 +2362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2400,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhiltomar2712/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2502,6 +2506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1476-subrectangle-queries) |
 | [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
