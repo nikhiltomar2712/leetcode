@@ -3080,6 +3080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1531-string-compression-ii) |
 | [1537-get-the-maximum-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nikhiltomar2712/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/nikhiltomar2712/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3487,6 +3488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/nikhiltomar2712/leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/nikhiltomar2712/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
