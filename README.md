@@ -945,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/nikhiltomar2712/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1531-string-compression-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1531-string-compression-ii) |
 | [1540-can-convert-string-in-k-moves](https://github.com/nikhiltomar2712/leetcode/tree/master/1540-can-convert-string-in-k-moves) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1970,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/nikhiltomar2712/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1537-get-the-maximum-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1537-get-the-maximum-score) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2572,6 +2574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -4234,6 +4237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Least Common Multiple
 |  |
 | ------- |
