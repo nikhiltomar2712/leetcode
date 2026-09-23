@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1575-count-all-possible-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/1575-count-all-possible-routes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3125,6 +3126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1575-count-all-possible-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/1575-count-all-possible-routes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -3539,6 +3541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/nikhiltomar2712/leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/nikhiltomar2712/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1575-count-all-possible-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/1575-count-all-possible-routes) |
 ## Divide and Conquer
 |  |
 | ------- |
