@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikhiltomar2712/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2022,6 +2023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikhiltomar2712/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2192,6 +2194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nikhiltomar2712/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nikhiltomar2712/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
