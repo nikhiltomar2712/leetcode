@@ -1306,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/nikhiltomar2712/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1600-throne-inheritance](https://github.com/nikhiltomar2712/leetcode/tree/master/1600-throne-inheritance) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nikhiltomar2712/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1600-throne-inheritance](https://github.com/nikhiltomar2712/leetcode/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -1664,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nikhiltomar2712/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1600-throne-inheritance](https://github.com/nikhiltomar2712/leetcode/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -4031,6 +4034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1476-subrectangle-queries) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1600-throne-inheritance](https://github.com/nikhiltomar2712/leetcode/tree/master/1600-throne-inheritance) |
 ## Doubly-Linked List
 |  |
 | ------- |
