@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1598-crawler-log-folder](https://github.com/nikhiltomar2712/leetcode/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1592-rearrange-spaces-between-words](https://github.com/nikhiltomar2712/leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1598-crawler-log-folder](https://github.com/nikhiltomar2712/leetcode/tree/master/1598-crawler-log-folder) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2659,6 +2661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/nikhiltomar2712/leetcode/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1598-crawler-log-folder](https://github.com/nikhiltomar2712/leetcode/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
