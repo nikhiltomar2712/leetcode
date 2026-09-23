@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/nikhiltomar2712/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nikhiltomar2712/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1803,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nikhiltomar2712/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2222,6 +2224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/nikhiltomar2712/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nikhiltomar2712/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
