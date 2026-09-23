@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/nikhiltomar2712/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1591-strange-printer-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -2566,6 +2567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1591-strange-printer-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3161,6 +3163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/1575-count-all-possible-routes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikhiltomar2712/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -3387,6 +3390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1542-find-longest-awesome-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1542-find-longest-awesome-substring) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -3960,6 +3964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1494-parallel-courses-ii) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Design
 |  |
 | ------- |
@@ -4438,6 +4443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhiltomar2712/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
@@ -4558,6 +4564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Aho–Corasick Algorithm
 |  |
 | ------- |
@@ -4684,10 +4691,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Flow Network
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Dinic's Algorithm
 |  |
 | ------- |
@@ -4732,4 +4741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 <!---LeetCode Topics End-->
