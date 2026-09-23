@@ -981,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikhiltomar2712/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1592-rearrange-spaces-between-words](https://github.com/nikhiltomar2712/leetcode/tree/master/1592-rearrange-spaces-between-words) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/nikhiltomar2712/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -3854,6 +3856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/nikhiltomar2712/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
