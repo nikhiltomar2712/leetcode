@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1598-crawler-log-folder](https://github.com/nikhiltomar2712/leetcode/tree/master/1598-crawler-log-folder) |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/nikhiltomar2712/leetcode/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3399,6 +3400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-find-longest-awesome-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1542-find-longest-awesome-substring) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -3463,6 +3465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/nikhiltomar2712/leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/nikhiltomar2712/leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -3872,6 +3875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
