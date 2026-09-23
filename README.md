@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikhiltomar2712/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1583-count-unhappy-friends](https://github.com/nikhiltomar2712/leetcode/tree/master/1583-count-unhappy-friends) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3262,6 +3263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/nikhiltomar2712/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1562-find-latest-group-of-size-m](https://github.com/nikhiltomar2712/leetcode/tree/master/1562-find-latest-group-of-size-m) |
+| [1583-count-unhappy-friends](https://github.com/nikhiltomar2712/leetcode/tree/master/1583-count-unhappy-friends) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
