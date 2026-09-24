@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1646-get-maximum-in-generated-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1848,6 +1849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nikhiltomar2712/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -3744,6 +3746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Indexed Tree
 |  |
@@ -3759,6 +3762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/nikhiltomar2712/leetcode/tree/master/1395-count-number-of-teams) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nikhiltomar2712/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
@@ -3780,6 +3784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -3792,6 +3797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
 | ------- |
@@ -3815,6 +3821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nikhiltomar2712/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhiltomar2712/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
