@@ -2935,6 +2935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3193,6 +3194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikhiltomar2712/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -3424,6 +3426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -3621,6 +3624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/nikhiltomar2712/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/1575-count-all-possible-routes) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -3815,6 +3819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1106-parsing-a-boolean-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
