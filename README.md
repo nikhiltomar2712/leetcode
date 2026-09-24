@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1672-richest-customer-wealth](https://github.com/nikhiltomar2712/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2684,6 +2685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1632-rank-transform-of-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/nikhiltomar2712/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
