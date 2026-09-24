@@ -1021,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/nikhiltomar2712/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2751,6 +2752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1598-crawler-log-folder](https://github.com/nikhiltomar2712/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3272,6 +3274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1641-count-sorted-vowel-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1643-kth-smallest-instructions) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
