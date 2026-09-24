@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1652-defuse-the-bomb](https://github.com/nikhiltomar2712/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1417,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1499-max-value-of-equation) |
 | [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
+| [1652-defuse-the-bomb](https://github.com/nikhiltomar2712/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
