@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1640-check-array-formation-through-concatenation](https://github.com/nikhiltomar2712/leetcode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1642-furthest-building-you-can-reach](https://github.com/nikhiltomar2712/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -2088,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1642-furthest-building-you-can-reach](https://github.com/nikhiltomar2712/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2344,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/nikhiltomar2712/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
