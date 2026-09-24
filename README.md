@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/nikhiltomar2712/leetcode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1626-best-team-with-no-conflicts](https://github.com/nikhiltomar2712/leetcode/tree/master/1626-best-team-with-no-conflicts) |
+| [1627-graph-connectivity-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -2497,6 +2498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nikhiltomar2712/leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2952,6 +2954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
+| [1627-graph-connectivity-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -4190,6 +4193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/nikhiltomar2712/leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
+| [1627-graph-connectivity-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
