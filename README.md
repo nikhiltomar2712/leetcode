@@ -1000,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1685,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nikhiltomar2712/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1600-throne-inheritance](https://github.com/nikhiltomar2712/leetcode/tree/master/1600-throne-inheritance) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2448,6 +2450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nikhiltomar2712/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1609-even-odd-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1609-even-odd-tree) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3508,6 +3511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/nikhiltomar2712/leetcode/tree/master/1620-coordinate-with-maximum-network-quality) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
