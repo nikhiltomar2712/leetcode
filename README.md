@@ -1518,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1600-throne-inheritance](https://github.com/nikhiltomar2712/leetcode/tree/master/1600-throne-inheritance) |
 | [1609-even-odd-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1609-even-odd-tree) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -3198,6 +3199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -3431,6 +3433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -3497,6 +3500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/nikhiltomar2712/leetcode/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/nikhiltomar2712/leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -4012,6 +4016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Design
 |  |
 | ------- |
