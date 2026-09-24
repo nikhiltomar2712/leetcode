@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nikhiltomar2712/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1499-max-value-of-equation) |
+| [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -2228,6 +2230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/nikhiltomar2712/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nikhiltomar2712/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -2931,6 +2934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3452,6 +3456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/nikhiltomar2712/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/nikhiltomar2712/leetcode/tree/master/1515-best-position-for-a-service-centre) |
+| [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 ## Rejection Sampling
 |  |
 | ------- |
