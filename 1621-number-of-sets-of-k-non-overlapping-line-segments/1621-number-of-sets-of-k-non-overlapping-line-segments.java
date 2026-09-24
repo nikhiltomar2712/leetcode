@@ -1,44 +1,38 @@
 class Solution {
-    private static final int MOD = 1_000_000_007;
-
     public int numberOfSets(int n, int k) {
-        // The answer is C(n + k - 1, 2 * k) mod (10^9 + 7)
-        return (int) binomial(n + k - 1, 2 * k);
-    }
+        int MOD = 1_000_000_007;
+        // dp[i][j] = ways to choose j segments among points 0..i (points 0..i available, ending at or before i)
+        // We use: dp[i][j] = dp[i-1][j] + sum_{m=0}^{i-1} dp[m][j-1]
+        // where m is the left endpoint of the last segment (right endpoint = i-1)
+        long[][] dp = new long[n][k + 1];
+        long[][] prefix = new long[n][k + 1];
 
-    private long binomial(int N, int R) {
-        if (R < 0 || R > N) return 0;
-        if (R == 0 || R == N) return 1;
-        // Optimize: C(N, R) == C(N, N - R)
-        R = Math.min(R, N - R);
-
-        long[] fact = new long[N + 1];
-        long[] invFact = new long[N + 1];
-        fact[0] = 1;
-        for (int i = 1; i <= N; i++) {
-            fact[i] = fact[i - 1] * i % MOD;
+        // Base: 0 segments → 1 way (empty set)
+        for (int i = 0; i < n; i++) {
+            dp[i][0] = 1;
+            prefix[i][0] = (i == 0 ? 1 : (prefix[i - 1][0] + 1) % MOD);
         }
-        invFact[N] = modInverse(fact[N]);
-        for (int i = N - 1; i >= 0; i--) {
-            invFact[i] = invFact[i + 1] * (i + 1) % MOD;
-        }
-        return fact[N] * invFact[R] % MOD * invFact[N - R] % MOD;
-    }
 
-    private long modInverse(long a) {
-        return modPow(a, MOD - 2);
-    }
-
-    private long modPow(long base, long exp) {
-        long result = 1;
-        base %= MOD;
-        while (exp > 0) {
-            if ((exp & 1) == 1) {
-                result = result * base % MOD;
+        for (int j = 1; j <= k; j++) {
+            for (int i = 1; i < n; i++) {
+                // Two cases:
+                // 1. Point i not used as an endpoint: dp[i-1][j]
+                // 2. Point i is the right endpoint of the j-th segment,
+                //    left endpoint m ranges from 0 to i-1:
+                //    sum dp[m][j-1] for m in [0, i-1] = prefix[i-1][j-1]
+                long notUsed = (i >= 1) ? dp[i - 1][j] : 0;
+                long used = prefix[i - 1][j - 1];
+                dp[i][j] = (notUsed + used) % MOD;
             }
-            base = base * base % MOD;
-            exp >>= 1;
+            // Build prefix sums for this j
+            for (int i = 0; i < n; i++) {
+                prefix[i][j] = dp[i][j];
+                if (i > 0) {
+                    prefix[i][j] = (prefix[i][j] + prefix[i - 1][j]) % MOD;
+                }
+            }
         }
-        return result;
+
+        return (int) dp[n - 1][k];
     }
 }
