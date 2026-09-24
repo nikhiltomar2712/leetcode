@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1652-defuse-the-bomb](https://github.com/nikhiltomar2712/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/nikhiltomar2712/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1350,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/nikhiltomar2712/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1640-check-array-formation-through-concatenation](https://github.com/nikhiltomar2712/leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nikhiltomar2712/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/nikhiltomar2712/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -2500,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1609-even-odd-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/nikhiltomar2712/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
