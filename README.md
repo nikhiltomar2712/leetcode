@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/nikhiltomar2712/leetcode/tree/master/1598-crawler-log-folder) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/nikhiltomar2712/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3599,6 +3600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/nikhiltomar2712/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
