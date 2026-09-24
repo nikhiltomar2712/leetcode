@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nikhiltomar2712/leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1640-check-array-formation-through-concatenation](https://github.com/nikhiltomar2712/leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1339,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/nikhiltomar2712/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [1640-check-array-formation-through-concatenation](https://github.com/nikhiltomar2712/leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
