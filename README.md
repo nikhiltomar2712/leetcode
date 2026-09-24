@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1664-ways-to-make-a-fair-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3912,6 +3913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/nikhiltomar2712/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -4203,6 +4205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
 | [1656-design-an-ordered-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/1656-design-an-ordered-stream) |
+| [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -4210,6 +4213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/nikhiltomar2712/leetcode/tree/master/0432-all-oone-data-structure) |
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -4382,6 +4386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhiltomar2712/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1499-max-value-of-equation) |
+| [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -4403,6 +4408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/1656-design-an-ordered-stream) |
+| [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Counting Sort
 |  |
 | ------- |
