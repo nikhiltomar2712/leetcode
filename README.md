@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nikhiltomar2712/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1675-minimize-deviation-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1377,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nikhiltomar2712/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -3320,6 +3322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-maximize-grid-happiness](https://github.com/nikhiltomar2712/leetcode/tree/master/1659-maximize-grid-happiness) |
 | [1668-maximum-repeating-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3560,6 +3563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/nikhiltomar2712/leetcode/tree/master/1659-maximize-grid-happiness) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4165,6 +4169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/nikhiltomar2712/leetcode/tree/master/1659-maximize-grid-happiness) |
+| [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 ## Design
 |  |
 | ------- |
