@@ -1,75 +1,52 @@
+import java.util.*;
+
 class Solution {
     public List<String> braceExpansionII(String expression) {
-        // Evaluate the whole expression
-        Set<String> result = evaluate(expression, 0, expression.length());
-        
-        // Convert to sorted list
-        List<String> ans = new ArrayList<>(result);
-        Collections.sort(ans);
-        return ans;
-    }
-    
-    // Evaluate expression[start ... end)
-    private Set<String> evaluate(String expr, int start, int end) {
-        // We process the expression as a sequence of "terms" separated by ','
-        // Each term is a product of factors (letters or nested {...})
-        
+        Deque<List<String>> stack = new ArrayDeque<>();
         Set<String> union = new HashSet<>();
         Set<String> product = new HashSet<>();
-        product.add("");               // identity for product
+        product.add("");
         
-        int i = start;
-        while (i < end) {
-            char c = expr.charAt(i);
-            
-            if (c == '{') {
-                // Find matching closing brace
-                int j = i + 1, balance = 1;
-                while (balance > 0) {
-                    if (expr.charAt(j) == '{') balance++;
-                    else if (expr.charAt(j) == '}') balance--;
-                    j++;
-                }
-                // Recursively evaluate the inside of the braces
-                Set<String> nested = evaluate(expr, i + 1, j - 1);
+        for (char ch : expression.toCharArray()) {
+            if (ch == '{') {
+                stack.push(new ArrayList<>(union));
+                stack.push(new ArrayList<>(product));
+                union = new HashSet<>();
+                product = new HashSet<>();
+                product.add("");
+            } else if (ch == '}') {
+                // Add current product to union
+                union.addAll(product);
                 
-                // Cartesian product with current product
-                product = multiply(product, nested);
-                i = j;
-            } 
-            else if (c == ',') {
-                // End of current product term → add to union
+                List<String> prevProduct = stack.pop();
+                List<String> prevUnion = stack.pop();
+                
+                // Cartesian product of prevProduct and union
+                Set<String> newProduct = new HashSet<>();
+                for (String p : prevProduct) {
+                    for (String u : union) {
+                        newProduct.add(p + u);
+                    }
+                }
+                
+                product = newProduct;
+                union = new HashSet<>(prevUnion);
+            } else if (ch == ',') {
                 union.addAll(product);
                 product = new HashSet<>();
                 product.add("");
-                i++;
-            } 
-            else if (c == '}') {
-                // Should not reach here because we skip balanced braces
-                i++;
-            } 
-            else {
-                // Single letter → treat as a singleton set
-                Set<String> letter = new HashSet<>();
-                letter.add(String.valueOf(c));
-                product = multiply(product, letter);
-                i++;
+            } else {
+                Set<String> newProduct = new HashSet<>();
+                for (String p : product) {
+                    newProduct.add(p + ch);
+                }
+                product = newProduct;
             }
         }
         
-        // Add the last product term
         union.addAll(product);
-        return union;
-    }
-    
-    // Cartesian product of two sets of strings
-    private Set<String> multiply(Set<String> a, Set<String> b) {
-        Set<String> res = new HashSet<>();
-        for (String x : a) {
-            for (String y : b) {
-                res.add(x + y);
-            }
-        }
-        return res;
+        List<String> result = new ArrayList<>(union);
+        Collections.sort(result);
+        return result;
     }
 }
