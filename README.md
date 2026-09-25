@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1690-stone-game-vii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/nikhiltomar2712/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1695-maximum-erasure-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1390,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1460,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1652-defuse-the-bomb](https://github.com/nikhiltomar2712/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
