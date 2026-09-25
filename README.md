@@ -4953,4 +4953,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
