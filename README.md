@@ -3049,6 +3049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/nikhiltomar2712/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -3450,6 +3451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1646-get-maximum-in-generated-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1646-get-maximum-in-generated-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -3557,6 +3559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/nikhiltomar2712/leetcode/tree/master/1659-maximize-grid-happiness) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
