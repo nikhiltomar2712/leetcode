@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/nikhiltomar2712/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-count-good-meals](https://github.com/nikhiltomar2712/leetcode/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -1408,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/nikhiltomar2712/leetcode/tree/master/1711-count-good-meals) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1916,6 +1918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2176,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/nikhiltomar2712/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -4771,6 +4775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1187-make-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1626-best-team-with-no-conflicts](https://github.com/nikhiltomar2712/leetcode/tree/master/1626-best-team-with-no-conflicts) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 ## Prime Factorization
 |  |
 | ------- |
