@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1696-jump-game-vi) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhiltomar2712/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -2821,6 +2822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhiltomar2712/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3491,6 +3493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/nikhiltomar2712/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhiltomar2712/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -4458,6 +4461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/nikhiltomar2712/leetcode/tree/master/1499-max-value-of-equation) |
 | [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1696-jump-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1696-jump-game-vi) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhiltomar2712/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
