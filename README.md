@@ -3109,6 +3109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/nikhiltomar2712/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1690-stone-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1690-stone-game-vii) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
