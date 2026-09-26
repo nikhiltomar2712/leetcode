@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1720-decode-xored-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3641,6 +3642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1720-decode-xored-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1720-decode-xored-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
