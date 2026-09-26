@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1726-tuple-with-same-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2766,6 +2767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/nikhiltomar2712/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/nikhiltomar2712/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -3125,6 +3127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nikhiltomar2712/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1690-stone-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1690-stone-game-vii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -3400,6 +3403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/nikhiltomar2712/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1696-jump-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1696-jump-game-vi) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3463,6 +3467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -3555,6 +3560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1462-course-schedule-iv) |
 | [1591-strange-printer-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/1632-rank-transform-of-a-matrix) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -3861,6 +3867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/nikhiltomar2712/leetcode/tree/master/1575-count-all-possible-routes) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1659-maximize-grid-happiness](https://github.com/nikhiltomar2712/leetcode/tree/master/1659-maximize-grid-happiness) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -4569,6 +4576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/nikhiltomar2712/leetcode/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -4627,6 +4635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 ## Impartial Game
@@ -4658,6 +4667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
