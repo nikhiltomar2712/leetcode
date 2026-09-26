@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1706-where-will-the-ball-fall](https://github.com/nikhiltomar2712/leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
@@ -3618,6 +3619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4055,6 +4057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nikhiltomar2712/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Backtracking
 |  |
 | ------- |
