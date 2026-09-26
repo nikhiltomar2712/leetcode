@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1720-decode-xored-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
