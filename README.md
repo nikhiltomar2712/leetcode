@@ -1065,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1694-reformat-phone-number) |
 | [1702-maximum-binary-string-after-change](https://github.com/nikhiltomar2712/leetcode/tree/master/1702-maximum-binary-string-after-change) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nikhiltomar2712/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2180,6 +2181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/nikhiltomar2712/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2847,6 +2849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhiltomar2712/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
