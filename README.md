@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/nikhiltomar2712/leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1748-sum-of-unique-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1955,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1739-building-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/1739-building-boxes) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2412,6 +2414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/nikhiltomar2712/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -3439,6 +3442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1745-palindrome-partitioning-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
