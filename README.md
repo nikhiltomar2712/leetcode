@@ -1433,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/nikhiltomar2712/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -3149,6 +3150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1739-building-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/1739-building-boxes) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -4445,6 +4447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/nikhiltomar2712/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1726-tuple-with-same-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
