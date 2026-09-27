@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/nikhiltomar2712/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1734-decode-xored-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2397,6 +2398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/nikhiltomar2712/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -2477,6 +2479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1686-stone-game-vi) |
 | [1696-jump-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2780,6 +2783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/nikhiltomar2712/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -3673,6 +3677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1720-decode-xored-array) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1734-decode-xored-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1734-decode-xored-permutation) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -3920,6 +3925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Indexed Tree
 |  |
@@ -4242,6 +4248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/nikhiltomar2712/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -4518,6 +4525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhiltomar2712/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Sweep Line
 |  |
 | ------- |
