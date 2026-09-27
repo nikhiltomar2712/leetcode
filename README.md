@@ -1079,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/nikhiltomar2712/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1726-tuple-with-same-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/nikhiltomar2712/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -4239,6 +4241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/nikhiltomar2712/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -4430,6 +4433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nikhiltomar2712/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1726-tuple-with-same-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1726-tuple-with-same-product) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
