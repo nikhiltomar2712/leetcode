@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-decode-xored-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1434,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/nikhiltomar2712/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1806,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
