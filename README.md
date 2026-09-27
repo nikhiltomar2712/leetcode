@@ -1078,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1702-maximum-binary-string-after-change](https://github.com/nikhiltomar2712/leetcode/tree/master/1702-maximum-binary-string-after-change) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nikhiltomar2712/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2203,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/nikhiltomar2712/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
