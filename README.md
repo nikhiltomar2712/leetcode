@@ -1083,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1745-palindrome-partitioning-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -3432,6 +3433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1728-cat-and-mouse-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1745-palindrome-partitioning-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
