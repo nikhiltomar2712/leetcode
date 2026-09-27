@@ -1086,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1745-palindrome-partitioning-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1745-palindrome-partitioning-iv) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nikhiltomar2712/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -3873,6 +3874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nikhiltomar2712/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
