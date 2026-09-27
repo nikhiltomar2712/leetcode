@@ -1,24 +1,26 @@
 class Solution {
     public String reverseParentheses(String s) {
-        StringBuilder stack = new StringBuilder();
+        Stack<Character> stack = new Stack<>();
         
-        for (char c : s.toCharArray()) {
-            if (c == ')') {
-                // Reverse the content inside the current parentheses
+        for (char ch : s.toCharArray()) {
+            if (ch == ')') {
                 StringBuilder temp = new StringBuilder();
-                while (stack.charAt(stack.length() - 1) != '(') {
-                    temp.append(stack.charAt(stack.length() - 1));
-                    stack.deleteCharAt(stack.length() - 1);
+                while (!stack.isEmpty() && stack.peek() != '(') {
+                    temp.append(stack.pop());
                 }
-                // Remove the '('
-                stack.deleteCharAt(stack.length() - 1);
-                // Append the reversed content
-                stack.append(temp);
+                stack.pop(); // remove '('
+                for (char c : temp.toString().toCharArray()) {
+                    stack.push(c);
+                }
             } else {
-                stack.append(c);
+                stack.push(ch);
             }
         }
         
-        return stack.toString();
+        StringBuilder result = new StringBuilder();
+        for (char c : stack) {
+            result.append(c);
+        }
+        return result.toString();
     }
 }
