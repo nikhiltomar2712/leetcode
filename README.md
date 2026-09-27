@@ -1089,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1745-palindrome-partitioning-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nikhiltomar2712/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1754-largest-merge-of-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2225,6 +2226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1739-building-boxes](https://github.com/nikhiltomar2712/leetcode/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1754-largest-merge-of-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -3883,6 +3885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nikhiltomar2712/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1754-largest-merge-of-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
