@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/nikhiltomar2712/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3234,6 +3235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -3519,6 +3521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3783,6 +3786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1755-closest-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1763-longest-nice-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1763-longest-nice-substring) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4300,6 +4304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -4420,6 +4425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/nikhiltomar2712/leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1755-closest-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1755-closest-subsequence-sum) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 ## Design
 |  |
 | ------- |
@@ -4598,6 +4604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
+| [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
