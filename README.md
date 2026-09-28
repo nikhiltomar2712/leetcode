@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/nikhiltomar2712/leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2557,6 +2558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1792-maximum-average-pass-ratio](https://github.com/nikhiltomar2712/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/nikhiltomar2712/leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -3667,6 +3669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1701-average-waiting-time) |
 | [1706-where-will-the-ball-fall](https://github.com/nikhiltomar2712/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/nikhiltomar2712/leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
