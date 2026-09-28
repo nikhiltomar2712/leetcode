@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nikhiltomar2712/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1765-map-of-highest-peak](https://github.com/nikhiltomar2712/leetcode/tree/master/1765-map-of-highest-peak) |
+| [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1661,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1609-even-odd-tree) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
@@ -1828,6 +1830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -3185,6 +3188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1753-maximum-score-from-removing-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -4527,6 +4531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
