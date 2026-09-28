@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/nikhiltomar2712/leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1816-truncate-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1816-truncate-sentence) |
+| [1817-finding-the-users-active-minutes](https://github.com/nikhiltomar2712/leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1494,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/nikhiltomar2712/leetcode/tree/master/1797-design-authentication-manager) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1817-finding-the-users-active-minutes](https://github.com/nikhiltomar2712/leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
