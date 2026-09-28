@@ -1124,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3244,6 +3245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
