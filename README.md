@@ -3572,6 +3572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1791-find-center-of-star-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
