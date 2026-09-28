@@ -1091,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nikhiltomar2712/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
