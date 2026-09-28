@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1773-count-items-matching-a-rule](https://github.com/nikhiltomar2712/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -3479,6 +3480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
+| [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4251,6 +4253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -4858,6 +4861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -5206,4 +5210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikhiltomar2712/leetcode/tree/master/0037-sudoku-solver) |
+## Mixed Knapsack
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 <!---LeetCode Topics End-->
