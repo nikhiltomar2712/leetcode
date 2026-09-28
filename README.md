@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/nikhiltomar2712/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2528,6 +2529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1753-maximum-score-from-removing-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2930,6 +2932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhiltomar2712/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2960,6 +2963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 ## Math
 |  |
 | ------- |
@@ -3200,6 +3204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/nikhiltomar2712/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
+| [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
