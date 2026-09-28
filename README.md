@@ -3206,6 +3206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
