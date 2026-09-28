@@ -3243,6 +3243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -4223,6 +4224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -4616,6 +4618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/nikhiltomar2712/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
