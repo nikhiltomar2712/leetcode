@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/nikhiltomar2712/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2274,6 +2275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/nikhiltomar2712/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -2468,6 +2470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
