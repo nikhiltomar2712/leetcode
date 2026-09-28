@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/nikhiltomar2712/leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1816-truncate-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/nikhiltomar2712/leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2015,6 +2016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nikhiltomar2712/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2483,6 +2485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -4141,6 +4144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1675-minimize-deviation-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1675-minimize-deviation-in-array) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
