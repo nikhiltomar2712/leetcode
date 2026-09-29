@@ -3279,6 +3279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nikhiltomar2712/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1837-sum-of-digits-in-base-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
