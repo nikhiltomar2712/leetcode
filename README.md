@@ -1149,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1844-replace-all-digits-with-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2320,6 +2321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/nikhiltomar2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhiltomar2712/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -4049,6 +4051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nikhiltomar2712/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
