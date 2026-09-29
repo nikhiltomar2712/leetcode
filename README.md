@@ -1136,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1816-truncate-sentence) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/nikhiltomar2712/leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -3266,6 +3268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -4438,6 +4441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -4622,6 +4626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -5299,6 +5304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
