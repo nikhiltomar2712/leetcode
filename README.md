@@ -1148,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nikhiltomar2712/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1844-replace-all-digits-with-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3932,6 +3933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/nikhiltomar2712/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -4384,6 +4386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/nikhiltomar2712/leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
