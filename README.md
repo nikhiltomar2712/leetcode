@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhiltomar2712/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2043,6 +2044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2524,6 +2526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/nikhiltomar2712/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhiltomar2712/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -2613,6 +2616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1825-finding-mk-average](https://github.com/nikhiltomar2712/leetcode/tree/master/1825-finding-mk-average) |
 | [1834-single-threaded-cpu](https://github.com/nikhiltomar2712/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/nikhiltomar2712/leetcode/tree/master/1845-seat-reservation-manager) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4764,6 +4768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0986-interval-list-intersections](https://github.com/nikhiltomar2712/leetcode/tree/master/0986-interval-list-intersections) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Queue
 |  |
 | ------- |
