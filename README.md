@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1829-maximum-xor-for-each-query) |
+| [1833-maximum-ice-cream-bars](https://github.com/nikhiltomar2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2302,6 +2303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1824-minimum-sideway-jumps](https://github.com/nikhiltomar2712/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/nikhiltomar2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -2498,6 +2500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/nikhiltomar2712/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/nikhiltomar2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -4782,6 +4785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nikhiltomar2712/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/nikhiltomar2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
