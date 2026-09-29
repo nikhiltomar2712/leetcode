@@ -1144,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nikhiltomar2712/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1844-replace-all-digits-with-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
