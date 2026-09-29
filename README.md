@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1824-minimum-sideway-jumps](https://github.com/nikhiltomar2712/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -3263,6 +3264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-maximize-number-of-nice-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -3855,6 +3857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/nikhiltomar2712/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/nikhiltomar2712/leetcode/tree/master/1515-best-position-for-a-service-centre) |
 | [1610-maximum-number-of-visible-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1610-maximum-number-of-visible-points) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nikhiltomar2712/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Rejection Sampling
 |  |
 | ------- |
