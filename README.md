@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/nikhiltomar2712/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nikhiltomar2712/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/nikhiltomar2712/leetcode/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2511,6 +2512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/nikhiltomar2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/nikhiltomar2712/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/nikhiltomar2712/leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -3287,6 +3289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nikhiltomar2712/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1837-sum-of-digits-in-base-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1840-maximum-building-height](https://github.com/nikhiltomar2712/leetcode/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
