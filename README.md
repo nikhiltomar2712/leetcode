@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -3025,6 +3026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3057,6 +3059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Math
 |  |
 | ------- |
@@ -4468,6 +4471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1854-maximum-population-year) |
+| [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -5245,6 +5249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Persistent Data Structure
 |  |
 | ------- |
