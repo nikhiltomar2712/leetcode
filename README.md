@@ -1155,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1859-sorting-the-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2533,6 +2534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhiltomar2712/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1859-sorting-the-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -5243,6 +5245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/nikhiltomar2712/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Concurrency
 |  |
 | ------- |
