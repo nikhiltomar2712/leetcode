@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1861-rotating-the-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1861-rotating-the-box) |
+| [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2053,6 +2054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3319,6 +3321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/nikhiltomar2712/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/nikhiltomar2712/leetcode/tree/master/1840-maximum-building-height) |
 | [1860-incremental-memory-leak](https://github.com/nikhiltomar2712/leetcode/tree/master/1860-incremental-memory-leak) |
+| [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -3957,6 +3960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/nikhiltomar2712/leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -4485,6 +4489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1854-maximum-population-year) |
 | [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
+| [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -4695,6 +4700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1854-maximum-population-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
