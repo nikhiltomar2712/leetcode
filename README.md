@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1854-maximum-population-year) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2046,6 +2047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4057,6 +4059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
