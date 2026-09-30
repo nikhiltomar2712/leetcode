@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1861-rotating-the-box) |
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1530,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nikhiltomar2712/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -4623,6 +4625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/nikhiltomar2712/leetcode/tree/master/1797-design-authentication-manager) |
 | [1825-finding-mk-average](https://github.com/nikhiltomar2712/leetcode/tree/master/1825-finding-mk-average) |
 | [1845-seat-reservation-manager](https://github.com/nikhiltomar2712/leetcode/tree/master/1845-seat-reservation-manager) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
