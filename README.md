@@ -3414,6 +3414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/nikhiltomar2712/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/nikhiltomar2712/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1922-count-good-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -4070,6 +4071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
