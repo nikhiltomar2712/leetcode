@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/nikhiltomar2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3148,6 +3149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3181,6 +3183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1776-car-fleet-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Math
 |  |
 | ------- |
