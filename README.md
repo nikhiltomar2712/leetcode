@@ -1220,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nikhiltomar2712/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1946-largest-number-after-mutating-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1946-largest-number-after-mutating-substring) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
