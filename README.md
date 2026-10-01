@@ -1188,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/nikhiltomar2712/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3096,6 +3097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3836,6 +3838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-number-of-orders-in-the-backlog](https://github.com/nikhiltomar2712/leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1860-incremental-memory-leak](https://github.com/nikhiltomar2712/leetcode/tree/master/1860-incremental-memory-leak) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
