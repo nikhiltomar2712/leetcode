@@ -3328,6 +3328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1860-incremental-memory-leak](https://github.com/nikhiltomar2712/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhiltomar2712/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
@@ -3617,6 +3618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/nikhiltomar2712/leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1824-minimum-sideway-jumps](https://github.com/nikhiltomar2712/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhiltomar2712/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -4522,6 +4524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/nikhiltomar2712/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhiltomar2712/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
