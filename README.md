@@ -770,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhiltomar2712/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1905-count-sub-islands) |
+| [1906-minimum-absolute-difference-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1906-minimum-absolute-difference-queries) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -4575,6 +4576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/nikhiltomar2712/leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nikhiltomar2712/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-largest-magic-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1895-largest-magic-square) |
+| [1906-minimum-absolute-difference-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1906-minimum-absolute-difference-queries) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
