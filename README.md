@@ -3350,6 +3350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhiltomar2712/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3642,6 +3643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
