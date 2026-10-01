@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/nikhiltomar2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1946-largest-number-after-mutating-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1946-largest-number-after-mutating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nikhiltomar2712/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nikhiltomar2712/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1946-largest-number-after-mutating-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1946-largest-number-after-mutating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -2429,6 +2431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/nikhiltomar2712/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/nikhiltomar2712/leetcode/tree/master/1936-add-minimum-number-of-rungs) |
+| [1946-largest-number-after-mutating-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1946-largest-number-after-mutating-substring) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
