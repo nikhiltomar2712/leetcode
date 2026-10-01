@@ -1183,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2376,6 +2377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-maximum-value-after-insertion](https://github.com/nikhiltomar2712/leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhiltomar2712/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1903-largest-odd-number-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -3378,6 +3380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [1903-largest-odd-number-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
