@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/nikhiltomar2712/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1923-longest-common-subpath](https://github.com/nikhiltomar2712/leetcode/tree/master/1923-longest-common-subpath) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3716,6 +3717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nikhiltomar2712/leetcode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/nikhiltomar2712/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3786,6 +3788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/nikhiltomar2712/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -5214,6 +5217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/nikhiltomar2712/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Graph Coloring
 |  |
 | ------- |
