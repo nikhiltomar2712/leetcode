@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1946-largest-number-after-mutating-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1946-largest-number-after-mutating-substring) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3754,6 +3755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4041,6 +4043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-number-of-wonderful-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1938-maximum-genetic-difference-query) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4582,6 +4585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -4722,6 +4726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/nikhiltomar2712/leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Design
 |  |
 | ------- |
@@ -5278,6 +5283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
@@ -5402,12 +5408,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/nikhiltomar2712/leetcode/tree/master/1029-two-city-scheduling) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Aho–Corasick Algorithm
 |  |
 | ------- |
@@ -5541,12 +5549,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Flow Network
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Dinic's Algorithm
 |  |
 | ------- |
@@ -5559,6 +5569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nikhiltomar2712/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Sparse Table
 |  |
 | ------- |
@@ -5599,6 +5610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/nikhiltomar2712/leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Algorithm X
 |  |
 | ------- |
