@@ -2149,6 +2149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1923-longest-common-subpath](https://github.com/nikhiltomar2712/leetcode/tree/master/1923-longest-common-subpath) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3463,6 +3464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
