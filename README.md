@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/nikhiltomar2712/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1955-count-number-of-special-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1955-count-number-of-special-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3766,6 +3767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [1955-count-number-of-special-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1955-count-number-of-special-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
