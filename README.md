@@ -1178,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-maximum-value-after-insertion](https://github.com/nikhiltomar2712/leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1553,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nikhiltomar2712/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -4766,6 +4768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
