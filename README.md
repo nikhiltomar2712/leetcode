@@ -1168,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/nikhiltomar2712/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1881-maximum-value-after-insertion](https://github.com/nikhiltomar2712/leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2352,6 +2353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nikhiltomar2712/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1881-maximum-value-after-insertion](https://github.com/nikhiltomar2712/leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
