@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/nikhiltomar2712/leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nikhiltomar2712/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-largest-magic-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1895-largest-magic-square) |
+| [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2087,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/nikhiltomar2712/leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4136,6 +4139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
