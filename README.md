@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-longest-common-subpath](https://github.com/nikhiltomar2712/leetcode/tree/master/1923-longest-common-subpath) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1929-concatenation-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3872,6 +3873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
