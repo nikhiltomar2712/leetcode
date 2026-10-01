@@ -1164,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1536,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nikhiltomar2712/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1612,6 +1614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nikhiltomar2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/nikhiltomar2712/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/nikhiltomar2712/leetcode/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -4723,6 +4726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/nikhiltomar2712/leetcode/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
