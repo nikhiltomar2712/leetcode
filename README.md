@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1905-count-sub-islands) |
 | [1906-minimum-absolute-difference-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1906-minimum-absolute-difference-queries) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
