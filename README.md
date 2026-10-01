@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1912-design-movie-rental-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1912-design-movie-rental-system) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1914-cyclically-rotating-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -3003,6 +3004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1905-count-sub-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -3846,6 +3848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1860-incremental-memory-leak](https://github.com/nikhiltomar2712/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1914-cyclically-rotating-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
