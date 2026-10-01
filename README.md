@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/nikhiltomar2712/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -2060,6 +2061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nikhiltomar2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
