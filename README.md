@@ -1184,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/nikhiltomar2712/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3381,6 +3382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/nikhiltomar2712/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
