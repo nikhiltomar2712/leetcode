@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/nikhiltomar2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -1595,6 +1596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/nikhiltomar2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -2634,6 +2636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/nikhiltomar2712/leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/nikhiltomar2712/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -4652,6 +4655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-minimum-absolute-difference-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/1906-minimum-absolute-difference-queries) |
 | [1915-number-of-wonderful-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
