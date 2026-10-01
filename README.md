@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/nikhiltomar2712/leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nikhiltomar2712/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1895-largest-magic-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1895-largest-magic-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2972,6 +2973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/nikhiltomar2712/leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhiltomar2712/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1895-largest-magic-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1895-largest-magic-square) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -4545,6 +4547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/nikhiltomar2712/leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nikhiltomar2712/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1895-largest-magic-square](https://github.com/nikhiltomar2712/leetcode/tree/master/1895-largest-magic-square) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
