@@ -3460,6 +3460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -4126,6 +4127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1862-sum-of-floored-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -4926,6 +4928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -5326,6 +5329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -5498,6 +5502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
 | [1390-four-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
