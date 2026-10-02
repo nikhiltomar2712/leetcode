@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhiltomar2712/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
@@ -2158,6 +2159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-longest-common-subpath](https://github.com/nikhiltomar2712/leetcode/tree/master/1923-longest-common-subpath) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/nikhiltomar2712/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4359,6 +4361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/nikhiltomar2712/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Segment Tree
 |  |
 | ------- |
@@ -5345,6 +5348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1626-best-team-with-no-conflicts](https://github.com/nikhiltomar2712/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Prime Factorization
 |  |
 | ------- |
