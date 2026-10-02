@@ -2006,6 +2006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2906,6 +2907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2957,6 +2959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3866,6 +3869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/nikhiltomar2712/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
