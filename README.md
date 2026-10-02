@@ -1233,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhiltomar2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/nikhiltomar2712/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -3804,6 +3805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1955-count-number-of-special-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1955-count-number-of-special-subsequences) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4728,6 +4730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1943-describe-the-painting](https://github.com/nikhiltomar2712/leetcode/tree/master/1943-describe-the-painting) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
