@@ -817,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1642,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [1993-operations-on-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1993-operations-on-tree) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -3542,6 +3544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -5007,6 +5010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1982-find-array-given-subset-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -5044,6 +5048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
