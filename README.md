@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1993-operations-on-tree) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3843,6 +3844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1987-number-of-unique-good-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
+| [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
