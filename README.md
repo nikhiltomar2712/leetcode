@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1982-find-array-given-subset-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3820,6 +3821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4112,6 +4114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhiltomar2712/leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4663,6 +4666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nikhiltomar2712/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1980-find-unique-binary-string) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -4806,6 +4810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/nikhiltomar2712/leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/nikhiltomar2712/leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Design
 |  |
 | ------- |
