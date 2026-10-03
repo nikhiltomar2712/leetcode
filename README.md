@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2007-find-original-array-from-doubled-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1646,6 +1647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1993-operations-on-tree) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2007-find-original-array-from-doubled-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -2496,6 +2498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/nikhiltomar2712/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1975-maximum-matrix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -2712,6 +2715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
