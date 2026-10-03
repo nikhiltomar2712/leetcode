@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1980-find-unique-binary-string) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3099,6 +3100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1958-check-if-move-is-legal](https://github.com/nikhiltomar2712/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -3810,6 +3812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
