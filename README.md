@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1991-find-the-middle-index-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/nikhiltomar2712/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2022,6 +2023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-delete-duplicate-folders-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/nikhiltomar2712/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2928,6 +2930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhiltomar2712/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/nikhiltomar2712/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3111,6 +3114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1992-find-all-groups-of-farmland](https://github.com/nikhiltomar2712/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
