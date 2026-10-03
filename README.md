@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/nikhiltomar2712/leetcode/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2703,6 +2704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/nikhiltomar2712/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2994,6 +2996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/nikhiltomar2712/leetcode/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3536,6 +3539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -5036,6 +5040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -5335,6 +5340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/nikhiltomar2712/leetcode/tree/master/1447-simplified-fractions) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -5418,6 +5424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/nikhiltomar2712/leetcode/tree/master/1447-simplified-fractions) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/nikhiltomar2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -5442,6 +5449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/nikhiltomar2712/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
+| [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
