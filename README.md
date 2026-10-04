@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2028-find-missing-observations](https://github.com/nikhiltomar2712/leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3589,6 +3590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2028-find-missing-observations](https://github.com/nikhiltomar2712/leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4063,6 +4065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nikhiltomar2712/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2028-find-missing-observations](https://github.com/nikhiltomar2712/leetcode/tree/master/2028-find-missing-observations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
