@@ -827,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2017-grid-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2017-grid-game) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/nikhiltomar2712/leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3157,6 +3158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1992-find-all-groups-of-farmland](https://github.com/nikhiltomar2712/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2017-grid-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2017-grid-game) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/nikhiltomar2712/leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -4257,6 +4259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1958-check-if-move-is-legal](https://github.com/nikhiltomar2712/leetcode/tree/master/1958-check-if-move-is-legal) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/nikhiltomar2712/leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
