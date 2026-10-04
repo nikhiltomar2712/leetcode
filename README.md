@@ -1272,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2027-minimum-moves-to-convert-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -2530,6 +2531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -3281,6 +3283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2000-reverse-prefix-of-word](https://github.com/nikhiltomar2712/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3316,6 +3319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1856-maximum-subarray-min-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Math
 |  |
 | ------- |
