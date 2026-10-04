@@ -1676,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2032-two-out-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/2032-two-out-of-three) |
+| [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -2848,6 +2849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/nikhiltomar2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhiltomar2712/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -4573,6 +4575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1825-finding-mk-average](https://github.com/nikhiltomar2712/leetcode/tree/master/1825-finding-mk-average) |
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
 | [1912-design-movie-rental-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1912-design-movie-rental-system) |
+| [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
@@ -4993,6 +4996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1912-design-movie-rental-system) |
 | [1993-operations-on-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1993-operations-on-tree) |
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
+| [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -5243,6 +5247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1825-finding-mk-average](https://github.com/nikhiltomar2712/leetcode/tree/master/1825-finding-mk-average) |
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
+| [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Counting Sort
 |  |
 | ------- |
