@@ -1268,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1746,6 +1747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhiltomar2712/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -2223,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/nikhiltomar2712/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2008-maximum-earnings-from-taxi](https://github.com/nikhiltomar2712/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhiltomar2712/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4834,6 +4837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-number-of-ways-to-separate-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1991-find-the-middle-index-in-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2017-grid-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2017-grid-game) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
