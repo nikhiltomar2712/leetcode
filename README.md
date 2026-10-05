@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/nikhiltomar2712/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/nikhiltomar2712/leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1681,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2032-two-out-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/2032-two-out-of-three) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -4088,6 +4090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2028-find-missing-observations](https://github.com/nikhiltomar2712/leetcode/tree/master/2028-find-missing-observations) |
+| [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -5007,6 +5010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/1993-operations-on-tree) |
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
