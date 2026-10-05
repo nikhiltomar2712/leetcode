@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -2252,6 +2254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhiltomar2712/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4898,6 +4901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-grid-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2017-grid-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
