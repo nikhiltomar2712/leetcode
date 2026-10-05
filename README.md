@@ -854,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3356,6 +3357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/nikhiltomar2712/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3392,6 +3394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
