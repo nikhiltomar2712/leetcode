@@ -3643,6 +3643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nikhiltomar2712/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2169-count-operations-to-obtain-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4123,6 +4124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2028-find-missing-observations](https://github.com/nikhiltomar2712/leetcode/tree/master/2028-find-missing-observations) |
 | [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
+| [2169-count-operations-to-obtain-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
