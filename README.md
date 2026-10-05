@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/nikhiltomar2712/leetcode/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -3981,6 +3982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -4948,6 +4950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
