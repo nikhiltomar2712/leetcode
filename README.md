@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2057-smallest-index-with-equal-value](https://github.com/nikhiltomar2712/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2059-minimum-operations-to-convert-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -4041,6 +4042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/nikhiltomar2712/leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4833,6 +4835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
