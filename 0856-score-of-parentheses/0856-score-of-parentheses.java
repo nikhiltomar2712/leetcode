@@ -1,20 +1,16 @@
 class Solution {
     public int scoreOfParentheses(String s) {
-        int ans = 0;
-        int depth = 0;
-        
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(') {
-                depth++;
+        Stack<Integer> stack = new Stack<>();
+        stack.push(0);
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                stack.push(0);
             } else {
-                depth--;
-                // When we see "()", add 2^depth to the score
-                if (s.charAt(i - 1) == '(') {
-                    ans += 1 << depth;
-                }
+                int v = stack.pop();
+                int w = stack.pop();
+                stack.push(w + Math.max(2 * v, 1));
             }
         }
-        
-        return ans;
+        return stack.pop();
     }
 }
