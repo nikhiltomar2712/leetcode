@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/nikhiltomar2712/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/nikhiltomar2712/leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -4228,6 +4229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2032-two-out-of-three](https://github.com/nikhiltomar2712/leetcode/tree/master/2032-two-out-of-three) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4309,6 +4311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1958-check-if-move-is-legal](https://github.com/nikhiltomar2712/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/nikhiltomar2712/leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -4786,6 +4789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
