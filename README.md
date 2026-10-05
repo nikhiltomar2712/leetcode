@@ -2907,6 +2907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -4665,6 +4666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1847-closest-room](https://github.com/nikhiltomar2712/leetcode/tree/master/1847-closest-room) |
 | [1912-design-movie-rental-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1912-design-movie-rental-system) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
@@ -5095,6 +5097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 ## Doubly-Linked List
 |  |
@@ -5354,6 +5357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1825-finding-mk-average](https://github.com/nikhiltomar2712/leetcode/tree/master/1825-finding-mk-average) |
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Counting Sort
 |  |
 | ------- |
