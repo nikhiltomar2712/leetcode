@@ -4499,6 +4499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/nikhiltomar2712/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4719,6 +4720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/nikhiltomar2712/leetcode/tree/master/1797-design-authentication-manager) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
