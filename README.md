@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2105-watering-plants-ii) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1801,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhiltomar2712/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -2285,6 +2287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4967,6 +4970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
