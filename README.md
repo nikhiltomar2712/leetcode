@@ -1305,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nikhiltomar2712/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2103-rings-and-rods](https://github.com/nikhiltomar2712/leetcode/tree/master/2103-rings-and-rods) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1714,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2103-rings-and-rods](https://github.com/nikhiltomar2712/leetcode/tree/master/2103-rings-and-rods) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
