@@ -1302,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nikhiltomar2712/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2583,6 +2584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nikhiltomar2712/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -3978,6 +3980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
