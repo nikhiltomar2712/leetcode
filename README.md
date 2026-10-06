@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2294,6 +2295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -5670,6 +5672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/nikhiltomar2712/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 ## Prime Factorization
 |  |
 | ------- |
