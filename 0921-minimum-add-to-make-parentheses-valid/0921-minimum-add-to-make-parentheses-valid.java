@@ -1,19 +1,14 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int open = 0;   // unmatched '('
-        int close = 0;  // unmatched ')'
-
+        int open = 0, res = 0;
         for (char c : s.toCharArray()) {
             if (c == '(') {
                 open++;
             } else {
-                if (open > 0) {
-                    open--;      // matched with a previous '('
-                } else {
-                    close++;     // needs a '('
-                }
+                if (open > 0) open--;
+                else res++;
             }
         }
-        return open + close;
+        return res + open;
     }
 }
