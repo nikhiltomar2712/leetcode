@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1807,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhiltomar2712/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -3684,6 +3686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4001,6 +4004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -4527,6 +4531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
