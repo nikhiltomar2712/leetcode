@@ -862,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikhiltomar2712/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikhiltomar2712/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1727,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/nikhiltomar2712/leetcode/tree/master/2103-rings-and-rods) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -4088,6 +4091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4206,6 +4210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/nikhiltomar2712/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -5434,6 +5439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1591-strange-printer-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1591-strange-printer-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
