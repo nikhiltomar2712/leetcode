@@ -1319,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikhiltomar2712/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2609,6 +2610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nikhiltomar2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -3375,6 +3377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -5561,6 +5564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhiltomar2712/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Least Common Multiple
 |  |
