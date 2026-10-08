@@ -1333,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -2630,6 +2631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2126-destroying-asteroids](https://github.com/nikhiltomar2712/leetcode/tree/master/2126-destroying-asteroids) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/nikhiltomar2712/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -4575,6 +4577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nikhiltomar2712/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2122-recover-the-original-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2122-recover-the-original-array) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4667,6 +4670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/nikhiltomar2712/leetcode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Segment Tree
 |  |
 | ------- |
