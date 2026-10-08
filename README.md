@@ -1334,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/nikhiltomar2712/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/nikhiltomar2712/leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
