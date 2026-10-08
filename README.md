@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/nikhiltomar2712/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/nikhiltomar2712/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2191-sort-the-jumbled-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/2191-sort-the-jumbled-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -2850,6 +2851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/nikhiltomar2712/leetcode/tree/master/2126-destroying-asteroids) |
+| [2191-sort-the-jumbled-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/2191-sort-the-jumbled-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
