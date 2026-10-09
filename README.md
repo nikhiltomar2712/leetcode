@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nikhiltomar2712/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2256-minimum-average-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nikhiltomar2712/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -5045,6 +5046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2121-intervals-between-identical-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2256-minimum-average-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2256-minimum-average-difference) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
