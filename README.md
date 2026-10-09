@@ -4725,6 +4725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1622-fancy-sequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/nikhiltomar2712/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
@@ -4770,6 +4771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Interactive
 |  |
 | ------- |
@@ -5206,6 +5208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
+| [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
