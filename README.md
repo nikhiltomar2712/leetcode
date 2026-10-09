@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nikhiltomar2712/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2284-sender-with-largest-word-count](https://github.com/nikhiltomar2712/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -2990,6 +2991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nikhiltomar2712/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -3140,6 +3142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2258-escape-the-spreading-fire](https://github.com/nikhiltomar2712/leetcode/tree/master/2258-escape-the-spreading-fire) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3335,6 +3338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2258-escape-the-spreading-fire](https://github.com/nikhiltomar2712/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4167,6 +4171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nikhiltomar2712/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4187,6 +4192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/nikhiltomar2712/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
@@ -5733,6 +5739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/nikhiltomar2712/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -6039,6 +6046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Perfect Matching
 |  |
 | ------- |
