@@ -1356,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikhiltomar2712/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/nikhiltomar2712/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -3458,6 +3459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -4284,6 +4286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2293-min-max-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -4869,6 +4872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -5244,6 +5248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/nikhiltomar2712/leetcode/tree/master/2166-design-bitset) |
 | [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
+| [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -5253,6 +5258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/nikhiltomar2712/leetcode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/nikhiltomar2712/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/nikhiltomar2712/leetcode/tree/master/1797-design-authentication-manager) |
+| [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 ## Bucket Sort
 |  |
 | ------- |
