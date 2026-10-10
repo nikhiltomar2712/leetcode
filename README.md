@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhiltomar2712/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2301-match-substring-after-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/2301-match-substring-after-replacement) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/nikhiltomar2712/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -3359,6 +3360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2258-escape-the-spreading-fire](https://github.com/nikhiltomar2712/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4112,6 +4114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimum-time-to-finish-the-race](https://github.com/nikhiltomar2712/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2262-total-appeal-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
