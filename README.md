@@ -894,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhiltomar2712/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2301-match-substring-after-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/2301-match-substring-after-replacement) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/nikhiltomar2712/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -4294,6 +4295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/nikhiltomar2712/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
