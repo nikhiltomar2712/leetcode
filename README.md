@@ -899,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
 | [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
+| [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3374,6 +3375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhiltomar2712/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4317,6 +4319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/nikhiltomar2712/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -4912,6 +4915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
+| [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
