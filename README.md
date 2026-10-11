@@ -1374,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nikhiltomar2712/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2325-decode-the-message](https://github.com/nikhiltomar2712/leetcode/tree/master/2325-decode-the-message) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -4144,6 +4145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/nikhiltomar2712/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4331,6 +4333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/nikhiltomar2712/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/nikhiltomar2712/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
