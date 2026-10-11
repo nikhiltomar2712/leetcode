@@ -1368,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-match-substring-after-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/2301-match-substring-after-replacement) |
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nikhiltomar2712/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -2688,6 +2689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/nikhiltomar2712/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -4126,6 +4128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4708,6 +4711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nikhiltomar2712/leetcode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
