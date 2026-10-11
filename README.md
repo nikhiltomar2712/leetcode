@@ -898,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
+| [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -4129,6 +4130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4712,6 +4714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nikhiltomar2712/leetcode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 ## Divide and Conquer
 |  |
 | ------- |
