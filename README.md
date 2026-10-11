@@ -900,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
 | [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2202,6 +2203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -3178,6 +3180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2258-escape-the-spreading-fire](https://github.com/nikhiltomar2712/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3376,6 +3379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4136,6 +4140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/nikhiltomar2712/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4217,6 +4222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nikhiltomar2712/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4345,6 +4351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhiltomar2712/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -4722,6 +4729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
