@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -3393,6 +3394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4491,6 +4493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -4578,6 +4581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nikhiltomar2712/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -5085,6 +5089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
