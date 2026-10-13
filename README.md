@@ -3838,6 +3838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4167,6 +4168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-number-of-people-aware-of-a-secret](https://github.com/nikhiltomar2712/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -5218,6 +5220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhiltomar2712/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/nikhiltomar2712/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
