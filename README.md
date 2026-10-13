@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/nikhiltomar2712/leetcode/tree/master/2325-decode-the-message) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1808,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nikhiltomar2712/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/nikhiltomar2712/leetcode/tree/master/2325-decode-the-message) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
