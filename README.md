@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2381,6 +2382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2286-booking-concert-tickets-in-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhiltomar2712/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2701,6 +2703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2935,6 +2938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhiltomar2712/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -5169,6 +5173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2256-minimum-average-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2256-minimum-average-difference) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/nikhiltomar2712/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
