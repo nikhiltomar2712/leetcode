@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1804,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nikhiltomar2712/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/nikhiltomar2712/leetcode/tree/master/2325-decode-the-message) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
