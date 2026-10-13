@@ -3828,6 +3828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4710,6 +4711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2122-recover-the-original-array) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhiltomar2712/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -5671,6 +5673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/nikhiltomar2712/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1227-airplane-seat-assignment-probability](https://github.com/nikhiltomar2712/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/nikhiltomar2712/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2396-strictly-palindromic-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Zero-Sum Game
 |  |
 | ------- |
