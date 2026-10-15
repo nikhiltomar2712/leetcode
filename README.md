@@ -909,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nikhiltomar2712/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1385,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
