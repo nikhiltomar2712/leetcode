@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nikhiltomar2712/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2398,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2956,6 +2958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nikhiltomar2712/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -3057,6 +3060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -3519,6 +3523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nikhiltomar2712/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3556,6 +3561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nikhiltomar2712/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/nikhiltomar2712/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 ## Math
 |  |
 | ------- |
