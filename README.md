@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nikhiltomar2712/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2043,6 +2044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -2225,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -2527,6 +2530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/nikhiltomar2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -3215,6 +3219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2258-escape-the-spreading-fire](https://github.com/nikhiltomar2712/leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nikhiltomar2712/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
