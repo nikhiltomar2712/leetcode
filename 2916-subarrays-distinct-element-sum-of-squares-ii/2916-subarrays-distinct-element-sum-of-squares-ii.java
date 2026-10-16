@@ -1,0 +1,52 @@
+class Solution {
+    private static final int MOD = (int) 1e9 + 7;
+    private int n;
+    private long[] tree1;
+    private long[] tree2;
+
+    public int sumCounts(int[] nums) {
+        n = nums.length;
+        tree1 = new long[n + 2];
+        tree2 = new long[n + 2];
+        int max = 0;
+        for (int x : nums) {
+            if (x > max) max = x;
+        }
+        int[] last = new int[max + 1];
+        long ans = 0;
+        long cur = 0;
+        for (int i = 1; i <= n; i++) {
+            int x = nums[i - 1];
+            int j = last[x];
+            cur = (cur + 2 * (query(i) - query(j)) + (i - j)) % MOD;
+            ans = (ans + cur) % MOD;
+            update(j + 1, 1);
+            update(i + 1, -1);
+            last[x] = i;
+        }
+        return (int) ans;
+    }
+
+    private int lowbit(int index) {
+        return index & (-index);
+    }
+
+    private void update(int index, int x) {
+        long v = (long) index * x;
+        while (index <= n + 1) {
+            tree1[index] += x;
+            tree2[index] += v;
+            index += lowbit(index);
+        }
+    }
+
+    private long query(int index) {
+        long res = 0;
+        int p = index + 1;
+        while (index > 0) {
+            res += p * tree1[index] - tree2[index];
+            index -= lowbit(index);
+        }
+        return res;
+    }
+}
