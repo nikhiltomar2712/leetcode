@@ -2054,6 +2054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhiltomar2712/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -2541,6 +2542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhiltomar2712/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Greedy
 |  |
 | ------- |
@@ -3234,6 +3236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhiltomar2712/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
