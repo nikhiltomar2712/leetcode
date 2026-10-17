@@ -3872,6 +3872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2469-convert-the-temperature](https://github.com/nikhiltomar2712/leetcode/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
