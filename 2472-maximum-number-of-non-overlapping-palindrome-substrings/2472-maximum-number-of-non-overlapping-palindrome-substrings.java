@@ -1,20 +1,17 @@
 class Solution {
     public int maxPalindromes(String s, int k) {
         int n = s.length();
-        int count = 0;
-        int i = 0;
-        while (i <= n - k) {
-            if (isPalindrome(s, i, i + k - 1)) {
-                count++;
-                i += k;
-            } else if (i + k < n && isPalindrome(s, i, i + k)) {
-                count++;
-                i += k + 1;
-            } else {
-                i++;
+        int[] dp = new int[n + 1];
+        for (int i = 1; i <= n; i++) {
+            dp[i] = dp[i - 1];
+            for (int j = i - k; j >= 0; j--) {
+                if (isPalindrome(s, j, i - 1)) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
+                    break;
+                }
             }
         }
-        return count;
+        return dp[n];
     }
 
     private boolean isPalindrome(String s, int l, int r) {
