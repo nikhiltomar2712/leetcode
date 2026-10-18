@@ -3902,6 +3902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/nikhiltomar2712/leetcode/tree/master/2469-convert-the-temperature) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2485-find-the-pivot-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4426,6 +4427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nikhiltomar2712/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -5568,6 +5570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -5902,6 +5905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-prime-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/0866-prime-palindrome) |
 | [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
@@ -5998,6 +6002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-count-ways-to-make-array-with-product](https://github.com/nikhiltomar2712/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -6172,10 +6177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/nikhiltomar2712/leetcode/tree/master/1175-prime-arrangements) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Biconnected Component
 |  |
 | ------- |
