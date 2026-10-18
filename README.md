@@ -920,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nikhiltomar2712/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2424,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
+| [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2750,6 +2752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nikhiltomar2712/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
