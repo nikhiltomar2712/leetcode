@@ -921,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1834,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -2753,6 +2755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -5521,6 +5524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikhiltomar2712/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/nikhiltomar2712/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
