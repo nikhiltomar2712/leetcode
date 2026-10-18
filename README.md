@@ -918,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nikhiltomar2712/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1828,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2465-number-of-distinct-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -5259,6 +5261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
