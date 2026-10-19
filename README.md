@@ -925,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2438,6 +2439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2766,6 +2768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3007,6 +3010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
