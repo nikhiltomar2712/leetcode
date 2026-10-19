@@ -928,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2518-number-of-great-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2518-number-of-great-partitions) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -3928,6 +3929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2525-categorize-box-according-to-criteria](https://github.com/nikhiltomar2712/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2527-find-xor-beauty-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4600,6 +4602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-naming-a-company](https://github.com/nikhiltomar2712/leetcode/tree/master/2306-naming-a-company) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2527-find-xor-beauty-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
