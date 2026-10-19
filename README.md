@@ -1849,6 +1849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/nikhiltomar2712/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -5452,6 +5453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -5560,6 +5562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/nikhiltomar2712/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -5698,6 +5701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/nikhiltomar2712/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/nikhiltomar2712/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -5727,6 +5731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/nikhiltomar2712/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/nikhiltomar2712/leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting Sort
 |  |
 | ------- |
