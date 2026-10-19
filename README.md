@@ -1414,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/nikhiltomar2712/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2772,6 +2773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4256,6 +4258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/nikhiltomar2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2518-number-of-great-partitions) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
