@@ -1420,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/nikhiltomar2712/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1855,6 +1856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/nikhiltomar2712/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -5581,6 +5583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
