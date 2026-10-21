@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2532-time-to-cross-a-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2791,6 +2792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/nikhiltomar2712/leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3033,6 +3035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -3140,6 +3143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2532-time-to-cross-a-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/2532-time-to-cross-a-bridge) |
+| [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
