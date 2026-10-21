@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1863,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -4293,6 +4295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2518-number-of-great-partitions) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5601,6 +5604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
