@@ -3953,6 +3953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/nikhiltomar2712/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2527-find-xor-beauty-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2544-alternating-digit-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
