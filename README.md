@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2555-maximize-win-from-two-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nikhiltomar2712/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -5364,6 +5366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/nikhiltomar2712/leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
