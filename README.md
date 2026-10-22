@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nikhiltomar2712/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2475,6 +2476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2555-maximize-win-from-two-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/2555-maximize-win-from-two-segments) |
+| [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2811,6 +2813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/nikhiltomar2712/leetcode/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4314,6 +4317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-number-of-great-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2518-number-of-great-partitions) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
