@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2555-maximize-win-from-two-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/2555-maximize-win-from-two-segments) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nikhiltomar2712/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -3163,6 +3164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-time-to-cross-a-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/nikhiltomar2712/leetcode/tree/master/2551-put-marbles-in-bags) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nikhiltomar2712/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -4505,6 +4507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2532-time-to-cross-a-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nikhiltomar2712/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
