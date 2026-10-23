@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2569-handling-sum-queries-after-update](https://github.com/nikhiltomar2712/leetcode/tree/master/2569-handling-sum-queries-after-update) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nikhiltomar2712/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/nikhiltomar2712/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1447,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2564-substring-xor-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2564-substring-xor-queries) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -4004,6 +4006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2544-alternating-digit-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
