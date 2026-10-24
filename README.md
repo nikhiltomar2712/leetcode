@@ -960,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nikhiltomar2712/leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2585-number-of-ways-to-earn-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2850,6 +2851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhiltomar2712/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2578-split-with-minimum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3102,6 +3104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -5440,6 +5443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/nikhiltomar2712/leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/nikhiltomar2712/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
