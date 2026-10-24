@@ -1436,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2409-count-days-spent-together](https://github.com/nikhiltomar2712/leetcode/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -3997,6 +3998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/nikhiltomar2712/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2409-count-days-spent-together](https://github.com/nikhiltomar2712/leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/nikhiltomar2712/leetcode/tree/master/2469-convert-the-temperature) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2485-find-the-pivot-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/2485-find-the-pivot-integer) |
