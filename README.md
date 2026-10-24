@@ -956,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1894,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-rearranging-fruits](https://github.com/nikhiltomar2712/leetcode/tree/master/2561-rearranging-fruits) |
 | [2564-substring-xor-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2564-substring-xor-queries) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nikhiltomar2712/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -2127,6 +2129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhiltomar2712/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -2312,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -4357,6 +4361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhiltomar2712/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
