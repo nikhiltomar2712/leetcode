@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-number-of-ways-to-earn-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1902,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nikhiltomar2712/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nikhiltomar2712/leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -4727,6 +4729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-substring-xor-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2564-substring-xor-queries) |
 | [2568-minimum-impossible-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2568-minimum-impossible-or) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhiltomar2712/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -5444,6 +5447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/nikhiltomar2712/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
