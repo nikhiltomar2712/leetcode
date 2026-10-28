@@ -2860,6 +2860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2591-distribute-money-to-maximum-children](https://github.com/nikhiltomar2712/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4051,6 +4052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-count-total-number-of-colored-cells](https://github.com/nikhiltomar2712/leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2582-pass-the-pillow](https://github.com/nikhiltomar2712/leetcode/tree/master/2582-pass-the-pillow) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nikhiltomar2712/leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
+| [2591-distribute-money-to-maximum-children](https://github.com/nikhiltomar2712/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
