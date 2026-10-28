@@ -4755,6 +4755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-impossible-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2568-minimum-impossible-or) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhiltomar2712/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2595-number-of-even-and-odd-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
