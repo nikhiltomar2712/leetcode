@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2594-minimum-time-to-repair-cars](https://github.com/nikhiltomar2712/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2518,6 +2519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2594-minimum-time-to-repair-cars](https://github.com/nikhiltomar2712/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
