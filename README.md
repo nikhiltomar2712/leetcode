@@ -4089,6 +4089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2651-calculate-delayed-arrival-time](https://github.com/nikhiltomar2712/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
