@@ -970,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2532,6 +2533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2594-minimum-time-to-repair-cars](https://github.com/nikhiltomar2712/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3139,6 +3141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -5505,6 +5508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/nikhiltomar2712/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
