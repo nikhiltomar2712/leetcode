@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/nikhiltomar2712/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhiltomar2712/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2678-number-of-senior-citizens](https://github.com/nikhiltomar2712/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1475,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-substring-xor-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2564-substring-xor-queries) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/nikhiltomar2712/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
