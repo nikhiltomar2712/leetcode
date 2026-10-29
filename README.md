@@ -971,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2603-collect-coins-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2155,6 +2156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhiltomar2712/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2603-collect-coins-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -4513,6 +4515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2603-collect-coins-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -4655,6 +4658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/nikhiltomar2712/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2603-collect-coins-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
