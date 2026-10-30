@@ -981,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/nikhiltomar2712/leetcode/tree/master/2681-power-of-heroes) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/2683-neighboring-bitwise-xor) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -3641,6 +3642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/nikhiltomar2712/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4455,6 +4457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-number-of-ways-to-earn-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2681-power-of-heroes](https://github.com/nikhiltomar2712/leetcode/tree/master/2681-power-of-heroes) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
