@@ -980,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2680-maximum-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2680-maximum-or) |
 | [2681-power-of-heroes](https://github.com/nikhiltomar2712/leetcode/tree/master/2681-power-of-heroes) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2683-neighboring-bitwise-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -4817,6 +4818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2595-number-of-even-and-odd-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2680-maximum-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2680-maximum-or) |
+| [2683-neighboring-bitwise-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
