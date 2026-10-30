@@ -976,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhiltomar2712/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2678-number-of-senior-citizens](https://github.com/nikhiltomar2712/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -3152,6 +3153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -3264,6 +3266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nikhiltomar2712/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -3630,6 +3633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/nikhiltomar2712/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4649,6 +4653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/nikhiltomar2712/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
