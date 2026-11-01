@@ -1495,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/nikhiltomar2712/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2920,6 +2921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2680-maximum-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2680-maximum-or) |
 | [2706-buy-two-chocolates](https://github.com/nikhiltomar2712/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4487,6 +4489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
