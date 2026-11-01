@@ -1493,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/nikhiltomar2712/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
