@@ -992,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2717-semi-ordered-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/2717-semi-ordered-permutation) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2044,6 +2045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/nikhiltomar2712/leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2555-maximize-win-from-two-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2653-sliding-subarray-beauty](https://github.com/nikhiltomar2712/leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/nikhiltomar2712/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
