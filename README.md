@@ -991,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2717-semi-ordered-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/2717-semi-ordered-permutation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -4707,6 +4708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2717-semi-ordered-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/2717-semi-ordered-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
