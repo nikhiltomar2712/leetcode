@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1947,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/nikhiltomar2712/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -3663,6 +3665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/nikhiltomar2712/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
