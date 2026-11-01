@@ -987,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2706-buy-two-chocolates](https://github.com/nikhiltomar2712/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -2914,6 +2915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2680-maximum-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2680-maximum-or) |
 | [2706-buy-two-chocolates](https://github.com/nikhiltomar2712/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -3176,6 +3178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2681-power-of-heroes](https://github.com/nikhiltomar2712/leetcode/tree/master/2681-power-of-heroes) |
 | [2706-buy-two-chocolates](https://github.com/nikhiltomar2712/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -4476,6 +4479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/nikhiltomar2712/leetcode/tree/master/2681-power-of-heroes) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -4843,6 +4847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2680-maximum-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2680-maximum-or) |
 | [2683-neighboring-bitwise-xor](https://github.com/nikhiltomar2712/leetcode/tree/master/2683-neighboring-bitwise-xor) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -4935,6 +4940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nikhiltomar2712/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -5465,6 +5471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
