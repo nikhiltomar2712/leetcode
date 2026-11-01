@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1950,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -2568,6 +2570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/nikhiltomar2712/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3185,6 +3188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/nikhiltomar2712/leetcode/tree/master/2681-power-of-heroes) |
 | [2706-buy-two-chocolates](https://github.com/nikhiltomar2712/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -3668,6 +3672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikhiltomar2712/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4490,6 +4495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5133,6 +5139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2312-selling-pieces-of-wood](https://github.com/nikhiltomar2712/leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -5272,6 +5279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Interactive
 |  |
 | ------- |
