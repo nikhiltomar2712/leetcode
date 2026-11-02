@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2057-smallest-index-with-equal-value](https://github.com/nikhiltomar2712/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2059-minimum-operations-to-convert-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -1458,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -4715,6 +4717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2028-find-missing-observations](https://github.com/nikhiltomar2712/leetcode/tree/master/2028-find-missing-observations) |
 | [2043-simple-bank-system](https://github.com/nikhiltomar2712/leetcode/tree/master/2043-simple-bank-system) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nikhiltomar2712/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nikhiltomar2712/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-watering-plants](https://github.com/nikhiltomar2712/leetcode/tree/master/2079-watering-plants) |
@@ -5533,6 +5536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
