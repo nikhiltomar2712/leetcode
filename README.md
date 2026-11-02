@@ -1447,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/nikhiltomar2712/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nikhiltomar2712/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -1911,6 +1912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/nikhiltomar2712/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nikhiltomar2712/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -4985,6 +4987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/nikhiltomar2712/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/nikhiltomar2712/leetcode/tree/master/1952-three-divisors) |
 | [1958-check-if-move-is-legal](https://github.com/nikhiltomar2712/leetcode/tree/master/1958-check-if-move-is-legal) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/nikhiltomar2712/leetcode/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -5122,6 +5125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhiltomar2712/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/nikhiltomar2712/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2105-watering-plants-ii) |
@@ -5526,6 +5530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/nikhiltomar2712/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -5885,6 +5890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1994-the-number-of-good-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/1994-the-number-of-good-subsets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/nikhiltomar2712/leetcode/tree/master/2013-detect-squares) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/nikhiltomar2712/leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
