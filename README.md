@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2498-frog-jump-ii) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2512-reward-top-k-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2512-reward-top-k-students) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2518-number-of-great-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2518-number-of-great-partitions) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/2490-circular-sentence) |
+| [2512-reward-top-k-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2512-reward-top-k-students) |
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/nikhiltomar2712/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -1958,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/nikhiltomar2712/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2512-reward-top-k-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2512-reward-top-k-students) |
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/nikhiltomar2712/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -3203,6 +3206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2512-reward-top-k-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2512-reward-top-k-students) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/nikhiltomar2712/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -3332,6 +3336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2512-reward-top-k-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2512-reward-top-k-students) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2532-time-to-cross-a-bridge](https://github.com/nikhiltomar2712/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2542-maximum-subsequence-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2542-maximum-subsequence-score) |
