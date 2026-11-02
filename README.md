@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-impossible-or](https://github.com/nikhiltomar2712/leetcode/tree/master/2568-minimum-impossible-or) |
 | [2569-handling-sum-queries-after-update](https://github.com/nikhiltomar2712/leetcode/tree/master/2569-handling-sum-queries-after-update) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nikhiltomar2712/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/nikhiltomar2712/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1516,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2564-substring-xor-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2564-substring-xor-queries) |
+| [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/nikhiltomar2712/leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -2949,6 +2951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhiltomar2712/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2578-split-with-minimum-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
@@ -3563,6 +3566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-process-restricted-friend-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -3712,6 +3716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nikhiltomar2712/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nikhiltomar2712/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/nikhiltomar2712/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -4540,6 +4545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhiltomar2712/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2585-number-of-ways-to-earn-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
