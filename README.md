@@ -914,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -3551,6 +3552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/nikhiltomar2712/leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2076-process-restricted-friend-requests](https://github.com/nikhiltomar2712/leetcode/tree/master/2076-process-restricted-friend-requests) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhiltomar2712/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
@@ -5334,6 +5336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Interactive
 |  |
@@ -5645,6 +5648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/nikhiltomar2712/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2256-minimum-average-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2256-minimum-average-difference) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/nikhiltomar2712/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
