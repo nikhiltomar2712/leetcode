@@ -920,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-maximum-rows-covered-by-columns](https://github.com/nikhiltomar2712/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2408-design-sql](https://github.com/nikhiltomar2712/leetcode/tree/master/2408-design-sql) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nikhiltomar2712/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
@@ -1497,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2408-design-sql](https://github.com/nikhiltomar2712/leetcode/tree/master/2408-design-sql) |
 | [2409-count-days-spent-together](https://github.com/nikhiltomar2712/leetcode/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nikhiltomar2712/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1950,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/nikhiltomar2712/leetcode/tree/master/2325-decode-the-message) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/nikhiltomar2712/leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2408-design-sql](https://github.com/nikhiltomar2712/leetcode/tree/master/2408-design-sql) |
 | [2465-number-of-distinct-averages](https://github.com/nikhiltomar2712/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2488-count-subarrays-with-median-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -5809,6 +5812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
+| [2408-design-sql](https://github.com/nikhiltomar2712/leetcode/tree/master/2408-design-sql) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
 |  |
