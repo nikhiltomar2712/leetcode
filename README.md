@@ -999,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-sorting-three-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2826-sorting-three-groups) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nikhiltomar2712/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2860-happy-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2860-happy-students) |
+| [2861-maximum-number-of-alloys](https://github.com/nikhiltomar2712/leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2581,6 +2582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2826-sorting-three-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2826-sorting-three-groups) |
+| [2861-maximum-number-of-alloys](https://github.com/nikhiltomar2712/leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
