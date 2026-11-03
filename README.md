@@ -1520,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2564-substring-xor-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/2564-substring-xor-queries) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2573-find-the-string-with-lcp](https://github.com/nikhiltomar2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -2604,6 +2605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/nikhiltomar2712/leetcode/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2594-minimum-time-to-repair-cars](https://github.com/nikhiltomar2712/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2601-prime-subtraction-operation](https://github.com/nikhiltomar2712/leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -5179,6 +5181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nikhiltomar2712/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2562-find-the-array-concatenation-value](https://github.com/nikhiltomar2712/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nikhiltomar2712/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
