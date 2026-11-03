@@ -1059,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## String
 |  |
 | ------- |
@@ -2085,6 +2086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -2625,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -4580,6 +4583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/nikhiltomar2712/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -5701,6 +5705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -6109,6 +6114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/nikhiltomar2712/leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -6122,6 +6128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/nikhiltomar2712/leetcode/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikhiltomar2712/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Data Stream
 |  |
 | ------- |
