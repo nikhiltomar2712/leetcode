@@ -1466,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/nikhiltomar2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/nikhiltomar2712/leetcode/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhiltomar2712/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -4523,6 +4524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/nikhiltomar2712/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/nikhiltomar2712/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2054-two-best-non-overlapping-events](https://github.com/nikhiltomar2712/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/nikhiltomar2712/leetcode/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikhiltomar2712/leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nikhiltomar2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
