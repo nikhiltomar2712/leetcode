@@ -1508,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2478-number-of-beautiful-partitions) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nikhiltomar2712/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2484-count-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/nikhiltomar2712/leetcode/tree/master/2490-circular-sentence) |
 | [2512-reward-top-k-students](https://github.com/nikhiltomar2712/leetcode/tree/master/2512-reward-top-k-students) |
@@ -4545,6 +4546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/nikhiltomar2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2478-number-of-beautiful-partitions) |
+| [2484-count-palindromic-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [2518-number-of-great-partitions](https://github.com/nikhiltomar2712/leetcode/tree/master/2518-number-of-great-partitions) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
