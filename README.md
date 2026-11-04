@@ -1021,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2917-find-the-k-or-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/nikhiltomar2712/leetcode/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -4594,6 +4595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhiltomar2712/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nikhiltomar2712/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/nikhiltomar2712/leetcode/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
