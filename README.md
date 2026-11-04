@@ -1020,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2917-find-the-k-or-of-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2988,6 +2989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/nikhiltomar2712/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/nikhiltomar2712/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikhiltomar2712/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
