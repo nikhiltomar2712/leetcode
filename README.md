@@ -4244,6 +4244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/nikhiltomar2712/leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/nikhiltomar2712/leetcode/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2928-distribute-candies-among-children-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4609,6 +4610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5776,6 +5778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/nikhiltomar2712/leetcode/tree/master/2514-count-anagrams) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/nikhiltomar2712/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2928-distribute-candies-among-children-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
