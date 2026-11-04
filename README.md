@@ -1024,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/nikhiltomar2712/leetcode/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2923-find-champion-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2923-find-champion-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2638,6 +2639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2826-sorting-three-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2826-sorting-three-groups) |
 | [2861-maximum-number-of-alloys](https://github.com/nikhiltomar2712/leetcode/tree/master/2861-maximum-number-of-alloys) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -4605,6 +4607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/nikhiltomar2712/leetcode/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5333,6 +5336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2286-booking-concert-tickets-in-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
@@ -5363,6 +5367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2569-handling-sum-queries-after-update](https://github.com/nikhiltomar2712/leetcode/tree/master/2569-handling-sum-queries-after-update) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
