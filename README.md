@@ -4695,6 +4695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhiltomar2712/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [2924-find-champion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
