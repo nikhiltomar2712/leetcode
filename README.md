@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/nikhiltomar2712/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -4589,6 +4590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-sorting-three-groups](https://github.com/nikhiltomar2712/leetcode/tree/master/2826-sorting-three-groups) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhiltomar2712/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nikhiltomar2712/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -6402,12 +6404,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [2585-number-of-ways-to-earn-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/nikhiltomar2712/leetcode/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Timsort
 |  |
 | ------- |
