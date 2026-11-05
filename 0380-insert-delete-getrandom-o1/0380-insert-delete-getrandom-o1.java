@@ -1,44 +1,33 @@
-import java.util.*;
-
 class RandomizedSet {
-    private List<Integer> nums;
-    private Map<Integer, Integer> valToIndex;
-    private Random rand;
+    private List<Integer> list;
+    private Map<Integer, Integer> map;
+    private Random random;
 
     public RandomizedSet() {
-        nums = new ArrayList<>();
-        valToIndex = new HashMap<>();
-        rand = new Random();
+        list = new ArrayList<>();
+        map = new HashMap<>();
+        random = new Random();
     }
-    
+
     public boolean insert(int val) {
-        if (valToIndex.containsKey(val)) {
-            return false;
-        }
-        valToIndex.put(val, nums.size());
-        nums.add(val);
+        if (map.containsKey(val)) return false;
+        map.put(val, list.size());
+        list.add(val);
         return true;
     }
-    
+
     public boolean remove(int val) {
-        if (!valToIndex.containsKey(val)) {
-            return false;
-        }
-        int index = valToIndex.get(val);
-        int lastVal = nums.get(nums.size() - 1);
-        
-        // Swap with last element
-        nums.set(index, lastVal);
-        valToIndex.put(lastVal, index);
-        
-        // Remove last element
-        nums.remove(nums.size() - 1);
-        valToIndex.remove(val);
-        
+        if (!map.containsKey(val)) return false;
+        int idx = map.get(val);
+        int last = list.get(list.size() - 1);
+        list.set(idx, last);
+        map.put(last, idx);
+        list.remove(list.size() - 1);
+        map.remove(val);
         return true;
     }
-    
+
     public int getRandom() {
-        return nums.get(rand.nextInt(nums.size()));
+        return list.get(random.nextInt(list.size()));
     }
 }
