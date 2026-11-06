@@ -2270,6 +2270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -2463,6 +2464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhiltomar2712/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -3299,6 +3301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/nikhiltomar2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -3415,6 +3418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/nikhiltomar2712/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -4648,6 +4652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/nikhiltomar2712/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -6409,6 +6414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/nikhiltomar2712/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Ternary Search
 |  |
 | ------- |
