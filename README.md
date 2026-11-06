@@ -3592,6 +3592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/nikhiltomar2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhiltomar2712/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -4664,6 +4665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5342,6 +5344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
