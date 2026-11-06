@@ -1566,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -4295,6 +4296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhiltomar2712/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4666,6 +4668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
