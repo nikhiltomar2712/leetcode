@@ -4298,6 +4298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhiltomar2712/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/nikhiltomar2712/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -5157,6 +5158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nikhiltomar2712/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/nikhiltomar2712/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
