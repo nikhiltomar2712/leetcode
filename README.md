@@ -4780,6 +4780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2924-find-champion-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2924-find-champion-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -5844,6 +5845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/nikhiltomar2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
