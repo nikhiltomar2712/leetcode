@@ -2677,6 +2677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -4303,6 +4304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/nikhiltomar2712/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -4676,6 +4678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5065,6 +5068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
