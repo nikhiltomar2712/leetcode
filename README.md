@@ -1047,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/nikhiltomar2712/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -3042,6 +3043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nikhiltomar2712/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/nikhiltomar2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -4307,6 +4309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-count-the-number-of-powerful-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/nikhiltomar2712/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -6158,6 +6161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/nikhiltomar2712/leetcode/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
