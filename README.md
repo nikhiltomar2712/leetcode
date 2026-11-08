@@ -1577,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -6195,6 +6196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-longest-common-subpath](https://github.com/nikhiltomar2712/leetcode/tree/master/1923-longest-common-subpath) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -6212,6 +6214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2301-match-substring-after-replacement](https://github.com/nikhiltomar2712/leetcode/tree/master/2301-match-substring-after-replacement) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -6232,6 +6235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-delete-duplicate-folders-in-system](https://github.com/nikhiltomar2712/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 ## Quickselect
 |  |
 | ------- |
