@@ -1052,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3030-find-the-grid-of-region-average](https://github.com/nikhiltomar2712/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/3033-modify-the-matrix) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1580,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -2050,6 +2052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -3055,6 +3058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -3333,6 +3337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -6130,6 +6135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
