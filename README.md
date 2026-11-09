@@ -1060,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2064,6 +2065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nikhiltomar2712/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -3849,6 +3851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhiltomar2712/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3030-find-the-grid-of-region-average](https://github.com/nikhiltomar2712/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/3033-modify-the-matrix) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -4340,6 +4343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -5211,6 +5215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nikhiltomar2712/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/nikhiltomar2712/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -6156,6 +6161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nikhiltomar2712/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -6205,6 +6211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/nikhiltomar2712/leetcode/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2949-count-beautiful-substrings-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -6582,6 +6589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
@@ -6870,6 +6878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -6877,6 +6886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/nikhiltomar2712/leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhiltomar2712/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 ## Biconnected Component
 |  |
 | ------- |
