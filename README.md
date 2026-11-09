@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -4928,6 +4929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/2717-semi-ordered-permutation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhiltomar2712/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2974-minimum-number-game) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
