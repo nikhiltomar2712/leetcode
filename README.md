@@ -1058,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/nikhiltomar2712/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1587,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -5679,6 +5681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -6221,6 +6224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -6241,6 +6245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -6264,6 +6269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
 |  |
 | ------- |
