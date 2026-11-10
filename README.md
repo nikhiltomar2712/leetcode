@@ -1068,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2318,6 +2319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -2513,6 +2515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
