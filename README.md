@@ -1065,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2713,6 +2714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -3080,6 +3082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -3477,6 +3480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/nikhiltomar2712/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2974-minimum-number-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2974-minimum-number-game) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
