@@ -1064,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3046-split-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2711,6 +2712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
