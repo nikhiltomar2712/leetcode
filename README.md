@@ -1069,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2320,6 +2321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -3088,6 +3090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -3369,6 +3372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nikhiltomar2712/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4739,6 +4743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5135,6 +5140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
