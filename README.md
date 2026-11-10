@@ -1061,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1593,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -5693,6 +5695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -6238,6 +6241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -6259,6 +6263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -6283,6 +6288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -6734,6 +6740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/1392-longest-happy-prefix) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
