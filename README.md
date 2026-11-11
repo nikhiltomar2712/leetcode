@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2078,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3046-split-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3046-split-the-array) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -3876,6 +3878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/3033-modify-the-matrix) |
 | [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -6195,6 +6198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/nikhiltomar2712/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3046-split-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3046-split-the-array) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
