@@ -1607,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nikhiltomar2712/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -2083,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3046-split-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3046-split-the-array) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nikhiltomar2712/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
