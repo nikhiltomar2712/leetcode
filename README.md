@@ -1075,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2179,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
@@ -3102,6 +3104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/nikhiltomar2712/leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -5941,6 +5944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/nikhiltomar2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
