@@ -1074,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4751,6 +4752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -6652,6 +6654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/nikhiltomar2712/leetcode/tree/master/1774-closest-dessert-cost) |
 | [2585-number-of-ways-to-earn-points](https://github.com/nikhiltomar2712/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -6659,6 +6662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/nikhiltomar2712/leetcode/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 ## Timsort
 |  |
 | ------- |
