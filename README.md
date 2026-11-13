@@ -1078,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/nikhiltomar2712/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -3394,6 +3395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/nikhiltomar2712/leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4771,6 +4773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhiltomar2712/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
+| [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
