@@ -1080,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3101-count-alternating-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/3101-count-alternating-subarrays) |
+| [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -3397,6 +3398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/nikhiltomar2712/leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
+| [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4398,6 +4400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/nikhiltomar2712/leetcode/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/3101-count-alternating-subarrays) |
+| [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -5218,6 +5221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/nikhiltomar2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/nikhiltomar2712/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -5623,6 +5627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2276-count-integers-in-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/2276-count-integers-in-intervals) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 ## Interactive
 |  |
 | ------- |
