@@ -1079,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/nikhiltomar2712/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
+| [3101-count-alternating-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/3101-count-alternating-subarrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -4396,6 +4397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nikhiltomar2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3099-harshad-number](https://github.com/nikhiltomar2712/leetcode/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3100-water-bottles-ii) |
+| [3101-count-alternating-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/3101-count-alternating-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
