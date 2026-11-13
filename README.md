@@ -1076,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/nikhiltomar2712/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -5950,6 +5951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/nikhiltomar2712/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
