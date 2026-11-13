@@ -4394,6 +4394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/nikhiltomar2712/leetcode/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nikhiltomar2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nikhiltomar2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3099-harshad-number](https://github.com/nikhiltomar2712/leetcode/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
