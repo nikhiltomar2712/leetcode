@@ -1082,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -2182,6 +2183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhiltomar2712/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Tree
@@ -4007,6 +4009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/nikhiltomar2712/leetcode/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -4047,6 +4050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/2454-next-greater-element-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -5557,6 +5561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -6392,6 +6397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/nikhiltomar2712/leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/nikhiltomar2712/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Monotonic Queue
 |  |
@@ -6408,6 +6414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/nikhiltomar2712/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/nikhiltomar2712/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/nikhiltomar2712/leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Data Stream
 |  |
