@@ -1082,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-count-alternating-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/3101-count-alternating-subarrays) |
 | [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -3743,6 +3744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/nikhiltomar2712/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -4882,6 +4884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nikhiltomar2712/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -5183,6 +5186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
