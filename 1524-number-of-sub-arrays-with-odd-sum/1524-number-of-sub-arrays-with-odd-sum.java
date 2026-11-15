@@ -1,21 +1,24 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
         final int MOD = 1_000_000_007;
-        int odd = 0, even = 1;   // empty prefix is even
-        int prefix = 0;
-        int result = 0;
+        long oddCount = 0;  // Number of prefix sums that are odd
+        long evenCount = 1; // Number of prefix sums that are even (empty prefix sum = 0 is even)
+        long prefixSum = 0;
+        long result = 0;
 
-        for (int x : arr) {
-            prefix += x;
-            if (prefix % 2 == 0) {
-                result = (result + odd) % MOD;
-                even++;
+        for (int num : arr) {
+            prefixSum += num;
+            if (prefixSum % 2 == 0) {
+                // Current prefix sum is even, pair with previous odd prefix sums
+                result = (result + oddCount) % MOD;
+                evenCount++;
             } else {
-                result = (result + even) % MOD;
-                odd++;
+                // Current prefix sum is odd, pair with previous even prefix sums
+                result = (result + evenCount) % MOD;
+                oddCount++;
             }
         }
 
-        return result;
+        return (int) result;
     }
 }
