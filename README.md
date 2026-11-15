@@ -4791,6 +4791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5982,6 +5983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/nikhiltomar2712/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
