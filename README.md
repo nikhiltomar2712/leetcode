@@ -1558,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/nikhiltomar2712/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/nikhiltomar2712/leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhiltomar2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2262-total-appeal-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2262-total-appeal-of-a-string) |
@@ -4996,6 +4997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2105-watering-plants-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nikhiltomar2712/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2293-min-max-game](https://github.com/nikhiltomar2712/leetcode/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/nikhiltomar2712/leetcode/tree/master/2295-replace-elements-in-an-array) |
