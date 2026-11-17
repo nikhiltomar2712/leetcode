@@ -1625,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nikhiltomar2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/nikhiltomar2712/leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3163-string-compression-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/3163-string-compression-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/3448-count-substrings-divisible-by-last-digit) |
