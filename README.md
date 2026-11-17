@@ -1089,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4803,6 +4804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5548,6 +5550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/nikhiltomar2712/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nikhiltomar2712/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -5605,6 +5608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3525-find-x-value-of-array-ii) |
