@@ -1088,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -2105,6 +2106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/nikhiltomar2712/leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
