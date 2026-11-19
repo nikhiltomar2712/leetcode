@@ -4425,6 +4425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-count-alternating-subarrays](https://github.com/nikhiltomar2712/leetcode/tree/master/3101-count-alternating-subarrays) |
 | [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -5047,6 +5048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3100-water-bottles-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3100-water-bottles-ii) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
