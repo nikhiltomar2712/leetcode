@@ -1094,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -3420,6 +3421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/nikhiltomar2712/leetcode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4817,6 +4819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5227,6 +5230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
