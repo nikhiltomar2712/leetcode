@@ -1095,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4820,6 +4821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
